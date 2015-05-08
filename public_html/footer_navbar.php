@@ -16,7 +16,6 @@ echo'<nav class="navbar navbar-default navbar-fixed-bottom" role="navigation">
                   <li><a href="affirmation-blog.php">Blog</a></li>
       </ul>
       <div class="nav navbar-nav navbar-right">
-          <span>Like us! Follow us!</span>
           <a href="https://www.facebook.com/myaffirmationlist" class="btn btn-social-icon btn-facebook"><i class="fa fa-facebook"></i></a>
           <!--a class="btn btn-social-icon btn-twitter"><i class="fa fa-twitter"></i></a-->
           <a href="https://instagram.com/myaffirmationlist" class="btn btn-social-icon btn-instagram"><i class="fa fa-instagram"></i></a>

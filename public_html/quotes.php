@@ -114,7 +114,7 @@
               <td width="33%" class="imageContainer"><img  src="smallpics/quote32.jpg" class="img-responsive thumb"></td>
               <td width="33%" class="imageContainer"><img  src="smallpics/quote33.jpg" class="img-responsive thumb"></td>
             </tr>
-            <tr>
+            <!--tr>
               <td width="33%" class="imageContainer"><img  src="smallpics/quote34.jpg" class="img-responsive thumb"></td>
               <td width="33%" class="imageContainer"><img  src="smallpics/quote35.jpg" class="img-responsive thumb"></td>
               <td width="33%" class="imageContainer"><img  src="smallpics/quote36.jpg" class="img-responsive thumb"></td>
@@ -122,7 +122,7 @@
             <tr>
               <td width="33%" class="imageContainer"><img  src="smallpics/quote37.jpg" class="img-responsive thumb"></td>
               <td width="33%" class="imageContainer"><img  src="smallpics/quote38.jpg" class="img-responsive thumb"></td>
-            </tr>
+            </tr-->
 
 
   </table>
