@@ -209,7 +209,7 @@ img.cell-wrapper{
     cursor: pointer;
 }
 
-#favouriteMessage{
+#favouriteMessage, #authorMessage{
     color: white;
 }
 #favouriteStar:hover{

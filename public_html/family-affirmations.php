@@ -55,62 +55,62 @@
       <div class="table-responsive">
           <table class="table table-wrapper">
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/family1.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/family2.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/family3.jpg" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/family1.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/family2.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/family3.jpg" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/family4.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/family5.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/family6.jpg" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/family4.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/family5.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/family6.jpg" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/family7.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/family8.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/family9.jpg" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/family7.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/family8.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/family9.jpg" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/family10.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/family11.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/family12.jpg" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/family10.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/family11.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/family12.jpg" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/family13.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/family14.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/family15.jpg" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/family13.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/family14.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/family15.jpg" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/family16.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/family17.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/family18.jpg" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/family16.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/family17.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/family18.jpg" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/family19.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/family20.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/family21.jpg" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/family19.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/family20.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/family21.jpg" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/family22.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/family23.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/family24.jpg" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/family22.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/family23.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/family24.jpg" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/family25.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/family26.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/family27.jpg" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/family25.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/family26.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/family27.jpg" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/family28.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/family29.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/family30.jpg" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/family28.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/family29.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/family30.jpg" data-author="" class="img-responsive thumb"></td>
             </tr>
              <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/family31.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/family32.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/family33.jpg" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/family31.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/family32.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/family33.jpg" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/family34.jpg" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/family34.jpg" data-author="" class="img-responsive thumb"></td>
             </tr> 
   </table>
 </div>

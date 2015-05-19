@@ -58,68 +58,68 @@
       <div class="table-responsive">
           <table class="table table-wrapper">
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/love1.jpg" alt="I deserve to be with people who loves me." class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/love2.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/love3.jpg" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/love1.jpg" data-author="" alt="I deserve to be with people who loves me." class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/love2.jpg" data-author="Background picture by andrew_mc_d on Flickr." class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/love3.jpg" data-author="Background picture by sumitrarose on Flickr." class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/love4.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/love5.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/love6.jpg" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/love4.jpg" data-author="Background picture by Joel Olives on Flickr." class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/love5.jpg" data-author="Background picture by Dusty J on Flickr." class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/love6.jpg" data-author="Background picture by takacsi75 on Flickr." class="img-responsive thumb"></td>
             </tr>
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/love7.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/love8.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/love9.jpg" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/love7.jpg" data-author="Background picture by Maggie-Me on Flickr." class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/love8.jpg" data-author="Background picture by Christopher.Michel on Flickr." class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/love9.jpg" data-author="" class="img-responsive thumb"></td>
             </tr>
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/love10.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/love11.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/love12.jpg" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/love10.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/love11.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/love12.jpg" data-author="" class="img-responsive thumb"></td>
             </tr>
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/love13.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/love14.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/love15.jpg" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/love13.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/love14.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/love15.jpg" data-author="" class="img-responsive thumb"></td>
             </tr>
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/love16.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/love17.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/love18.jpg" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/love16.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/love17.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/love18.jpg" data-author="" class="img-responsive thumb"></td>
             </tr>
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/love19.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/love20.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/love21.jpg" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/love19.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/love20.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/love21.jpg" data-author="" class="img-responsive thumb"></td>
             </tr>
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/love22.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/love23.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/love24.jpg" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/love22.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/love23.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/love24.jpg" data-author="" class="img-responsive thumb"></td>
             </tr>
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/love25.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/love26.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/love27.jpg" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/love25.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/love26.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/love27.jpg" data-author="" class="img-responsive thumb"></td>
             </tr>
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/love28.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/love29.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/love30.jpg" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/love28.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/love29.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/love30.jpg" data-author="" class="img-responsive thumb"></td>
             </tr>
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/love31.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/love32.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/love33.jpg" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/love31.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/love32.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/love33.jpg" data-author="" class="img-responsive thumb"></td>
             </tr>
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/love34.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/love35.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/love36.jpg" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/love34.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/love35.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/love36.jpg" data-author="" class="img-responsive thumb"></td>
             </tr>
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/love37.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/love38.jpg" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/love37.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/love38.jpg" data-author="" class="img-responsive thumb"></td>
             </tr>
 
 

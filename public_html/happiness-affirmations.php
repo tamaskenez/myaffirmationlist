@@ -56,54 +56,54 @@
       <div class="table-responsive">
           <table class="table table-wrapper">
             <tr>
-              <td width="33%" class="imageContainer"><img src="smallpics/happiness2.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/happiness3.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/happiness1.jpg" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/happiness2.jpg" data-author="Background image by cuellar on Flickr." class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/happiness3.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/happiness1.jpg" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img src="smallpics/happiness4.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/happiness5.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/happiness6.jpg" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/happiness4.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/happiness5.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/happiness6.jpg" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img src="smallpics/happiness7.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/happiness8.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/happiness9.jpg" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/happiness7.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/happiness8.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/happiness9.jpg" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img src="smallpics/happiness10.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/happiness11.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/happiness12.jpg" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/happiness10.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/happiness11.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/happiness12.jpg" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img src="smallpics/happiness13.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/happiness14.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/happiness15.jpg" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/happiness13.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/happiness14.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/happiness15.jpg" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img src="smallpics/happiness16.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/happiness17.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/happiness18.jpg" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/happiness16.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/happiness17.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/happiness18.jpg" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img src="smallpics/happiness19.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/happiness20.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/happiness21.jpg" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/happiness19.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/happiness20.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/happiness21.jpg" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img src="smallpics/happiness22.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/happiness23.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/happiness24.jpg" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/happiness22.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/happiness23.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/happiness24.jpg" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img src="smallpics/happiness25.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/happiness26.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/happiness27.jpg" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/happiness25.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/happiness26.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/happiness27.jpg" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img src="smallpics/happiness28.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/happiness29.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/happiness30.jpg" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/happiness28.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/happiness29.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/happiness30.jpg" data-author="" class="img-responsive thumb"></td>
             </tr> 
   </table>
 </div>

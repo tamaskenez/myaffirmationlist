@@ -50,6 +50,14 @@
   		<div class="col-md-2"><a href="https://www.facebook.com/myaffirmationlist"><img src="pics/facebook-like-button2.png" alt="facebook-like-button" class="img-responsive"/></a></div>
   	</div>
 
+   <div class="row">
+      <div class="col-md-2"><p></p></div>
+      <a href="http://www.myaffirmationlist.com/index.php"><div class="chooser col-md-4"><img src="pics/tip1.png" alt="Choose other category" class="img-responsive"/></div></a>
+      <div class="col-md-4"><img src="pics/tip2.png" alt="Click on the images to be able to share them or add them to your favourites list." class="img-responsive"/></div>
+      <div class="col-md-2"><p></p></div>
+
+    </div>
+
   	
 
 
@@ -60,76 +68,96 @@
       <div class="table-responsive">
           <table class="table table-wrapper">
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/quote1.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/quote2.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/quote3.jpg" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/quote1.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/quote2.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/quote3.jpg" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/quote4.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/quote5.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/quote6.jpg" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/quote4.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/quote5.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/quote6.jpg" data-author="" class="img-responsive thumb"></td>
             </tr>
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/quote7.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/quote8.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/quote9.jpg" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/quote7.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/quote8.jpg" data-author="Background picture by Jonathan Kriz on Flickr." class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/quote9.jpg" data-author="Background picture by Bhavna Sayana on Flickr." class="img-responsive thumb"></td>
             </tr>
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/quote10.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/quote11.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/quote12.jpg" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/quote10.jpg" data-author="Background picture by Moyan Brenn on Flickr." class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/quote11.jpg" data-author="Background picture by victoria white2010 on Flickr." class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/quote12.jpg" data-author="Background picture by Jeremy Brooks on Flickr." class="img-responsive thumb"></td>
             </tr>
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/quote13.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/quote14.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/quote15.jpg" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/quote13.jpg" data-author="Background picture by Joel Olives on Flickr." class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/quote14.jpg" data-author="Background picture by Maggie-Me on Flickr." class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/quote15.jpg" data-author="Background picture by Nanagyei on Flickr." class="img-responsive thumb"></td>
             </tr>
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/quote16.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/quote17.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/quote18.jpg" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/quote16.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/quote17.jpg" data-author="Background picture by Maggie-Me on Flickr." class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/quote18.jpg" data-author="" class="img-responsive thumb"></td>
             </tr>
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/quote19.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/quote20.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/quote21.jpg" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/quote19.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/quote20.jpg" data-author="Background picture by Kohei314 on Flickr."class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/quote21.jpg" data-author="" class="img-responsive thumb"></td>
             </tr>
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/quote22.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/quote23.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/quote24.jpg" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/quote22.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/quote23.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/quote24.jpg" data-author="" class="img-responsive thumb"></td>
             </tr>
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/quote25.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/quote26.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/quote27.jpg" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/quote25.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/quote26.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/quote27.jpg" data-author="" class="img-responsive thumb"></td>
             </tr>
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/quote28.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/quote29.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/quote30.jpg" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/quote28.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/quote29.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/quote30.jpg" data-author="" class="img-responsive thumb"></td>
             </tr>
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/quote31.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/quote32.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/quote33.jpg" class="img-responsive thumb"></td>
-            </tr>
-            <!--tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/quote34.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/quote35.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/quote36.jpg" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/quote31.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/quote32.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/quote33.jpg" data-author="" class="img-responsive thumb"></td>
             </tr>
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/quote37.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/quote38.jpg" class="img-responsive thumb"></td>
-            </tr-->
-
+              <td width="33%" class="imageContainer"><img  src="smallpics/quote34.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/quote35.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/quote36.jpg" data-author="" class="img-responsive thumb"></td>
+            </tr>
+            <tr>
+              <td width="33%" class="imageContainer"><img  src="smallpics/quote37.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/quote38.jpg" data-author="Background picture by fruity monkey on Flickr." class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/quote39.jpg" data-author="" class="img-responsive thumb"></td>
+            </tr>
+            <tr>
+              <td width="33%" class="imageContainer"><img  src="smallpics/quote40.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/quote41.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/quote42.jpg" data-author="" class="img-responsive thumb"></td>
+            </tr>
+            <tr>
+              <td width="33%" class="imageContainer"><img  src="smallpics/quote43.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/quote44.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/quote45.jpg" data-author="" class="img-responsive thumb"></td>
+            </tr>
+            <tr>
+              <td width="33%" class="imageContainer"><img  src="smallpics/quote46.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/quote47.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/quote48.jpg" data-author="" class="img-responsive thumb"></td>
+            </tr>
+            <tr>
+              <td width="33%" class="imageContainer"><img  src="smallpics/quote49.jpg" data-author="" class="img-responsive thumb"></td>
+              <!--td width="33%" class="imageContainer"><img  src="smallpics/quote50.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/quote51.jpg" data-author="" class="img-responsive thumb"></td-->
+            </tr>
 
   </table>
 </div>
 </div>
 
-  <div class="col-md-2"><p>?</p></div>
+  <div class="col-md-2"><p></p></div>
 </div>
 
 

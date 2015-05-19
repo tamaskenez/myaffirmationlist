@@ -56,73 +56,73 @@
       <div class="table-responsive">
           <table class="table table-wrapper">
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/motivation1.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/motivation2.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/motivation3.jpg" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/motivation1.jpg" data-author="Background image by Georgie Sharp on Flickr." class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/motivation2.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/motivation3.jpg" data-author="Background image by Trish Hamme on Flickr." class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/motivation4.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/motivation5.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/motivation6.jpg" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/motivation4.jpg" data-author="Background image by @Doug88888 on Flickr." class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/motivation5.jpg" data-author="Background image by Neal. on Flickr." class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/motivation6.jpg" data-author="" class="img-responsive thumb"></td>
             </tr>
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/motivation7.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/motivation8.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/motivation9.jpg" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/motivation7.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/motivation8.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/motivation9.jpg" data-author="" class="img-responsive thumb"></td>
             </tr>
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/motivation10.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/motivation11.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/motivation12.jpg" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/motivation10.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/motivation11.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/motivation12.jpg" data-author="" class="img-responsive thumb"></td>
             </tr>
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/motivation13.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/motivation14.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/motivation15.jpg" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/motivation13.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/motivation14.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/motivation15.jpg" data-author="" class="img-responsive thumb"></td>
             </tr>
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/motivation16.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/motivation17.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/motivation18.jpg" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/motivation16.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/motivation17.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/motivation18.jpg" data-author="" class="img-responsive thumb"></td>
             </tr>
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/motivation19.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/motivation20.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/motivation21.jpg" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/motivation19.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/motivation20.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/motivation21.jpg" data-author="" class="img-responsive thumb"></td>
             </tr>
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/motivation22.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/motivation23.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/motivation24.jpg" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/motivation22.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/motivation23.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/motivation24.jpg" data-author="" class="img-responsive thumb"></td>
             </tr>
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/motivation25.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/motivation26.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/motivation27.jpg" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/motivation25.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/motivation26.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/motivation27.jpg" data-author="" class="img-responsive thumb"></td>
             </tr>
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/motivation28.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/motivation29.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/motivation30.jpg" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/motivation28.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/motivation29.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/motivation30.jpg" data-author="" class="img-responsive thumb"></td>
             </tr>
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/motivation31.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/motivation32.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/motivation33.jpg" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/motivation31.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/motivation32.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/motivation33.jpg" data-author="" class="img-responsive thumb"></td>
             </tr>
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/motivation34.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/motivation35.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/motivation36.jpg" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/motivation34.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/motivation35.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/motivation36.jpg" data-author="" class="img-responsive thumb"></td>
             </tr>
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/motivation37.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/motivation38.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/motivation39.jpg" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/motivation37.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/motivation38.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/motivation39.jpg" data-author="" class="img-responsive thumb"></td>
             </tr>
              <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/motivation40.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/motivation41.jpg" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/motivation40.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/motivation41.jpg" data-author="" class="img-responsive thumb"></td>
             </tr>
   </table>
 </div>

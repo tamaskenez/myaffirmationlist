@@ -56,54 +56,54 @@
       <div class="table-responsive">
           <table class="table table-wrapper">
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/morning1.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/morning2.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/morning3.jpg" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/morning1.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/morning2.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/morning3.jpg" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/morning4.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/morning5.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/morning6.jpg" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/morning4.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/morning5.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/morning6.jpg" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/morning7.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/morning8.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/morning9.jpg" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/morning7.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/morning8.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/morning9.jpg" data-author="" class="img-responsive thumb"></td>
             </tr> 
              <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/morning10.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/morning11.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/morning12.jpg" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/morning10.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/morning11.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/morning12.jpg" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/morning13.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/morning14.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/morning15.jpg" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/morning13.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/morning14.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/morning15.jpg" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/morning16.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/morning17.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/morning18.jpg" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/morning16.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/morning17.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/morning18.jpg" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/morning19.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/morning20.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/morning21.jpg" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/morning19.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/morning20.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/morning21.jpg" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/morning22.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/morning23.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/morning24.jpg" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/morning22.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/morning23.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/morning24.jpg" data-author="" class="img-responsive thumb"></td>
             </tr> 
              <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/morning25.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/morning26.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/morning27.jpg" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/morning25.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/morning26.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/morning27.jpg" data-author="" class="img-responsive thumb"></td>
             </tr> 
              <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/morning28.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/morning29.jpg" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/morning30.jpg" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/morning28.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/morning29.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/morning30.jpg" data-author="" class="img-responsive thumb"></td>
             </tr> 
   </table>
 </div>

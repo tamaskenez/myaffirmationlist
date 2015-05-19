@@ -40,9 +40,11 @@ $(document).ready(function(){
 <!-- creating imgArray with the thumbs-->
 
   var imgArray=[];
+  var authorArray=[];
   var imgArrayLength;
   $('img.thumb').each(function(){
     imgArray.push($(this).attr("src"));
+    authorArray.push($(this).attr("data-author"));
     imgArrayLength = imgArray.length;
 
   });
@@ -58,7 +60,9 @@ $(document).ready(function(){
       imageClickedIndex = imgArray.indexOf($(this).attr("src"));
 
     var srcPic= $(this).attr("src");
+    var authorMsg= $(this).attr("data-author");
     $(".showpic").attr("src",srcPic);
+    document.getElementById("authorMessage").innerHTML = authorMsg;
     ss = "http://www.myaffirmationlist.com/og_" + srcPic.slice(10, -4);
     a="FB.ui({method: 'share',href: '" + ss + "',}, function(response){})";
     $("#popup-fb-share").attr("onclick", a);
@@ -80,6 +84,7 @@ $(document).ready(function(){
     }, 1000);
         isImageClicked = 0;
         document.getElementById("favouriteMessage").innerHTML = "";
+        document.getElementById("authorMessage").innerHTML = "";
   }); 
 /*end of close*/
 $("#close_favourite").click(function(){
@@ -99,8 +104,10 @@ $("#close_favourite").click(function(){
     */
     var nextImageIndex;
     nextImageIndex= (imageClickedIndex+1) % imgArrayLength;
-    var srcNextPic = imgArray[nextImageIndex]; 
+    var srcNextPic = imgArray[nextImageIndex];
+    var authorNextImg =authorArray[nextImageIndex];
     $(".showpic").attr("src",srcNextPic);
+    document.getElementById("authorMessage").innerHTML = authorNextImg;
     document.getElementById("favouriteMessage").innerHTML = "";
     imageClickedIndex = nextImageIndex;
 
@@ -112,7 +119,9 @@ $('.prev').click(function(){
     var nextImageIndex;
     nextImageIndex= (imageClickedIndex+imgArrayLength-1) % imgArrayLength;
     var srcNextPic = imgArray[nextImageIndex]; 
+    var authorNextImg = authorArray[nextImageIndex];
     $(".showpic").attr("src",srcNextPic);
+    document.getElementById("authorMessage").innerHTML = authorNextImg;
     document.getElementById("favouriteMessage").innerHTML = "";
     imageClickedIndex = nextImageIndex;
 });

@@ -23,6 +23,7 @@
                 <span class="caret"></span></a>
                 <ul class="dropdown-menu">
                 <li><a href="http://www.myaffirmationlist.com/index.php">ALL CATEGORIES</a></li>
+                <li><a href="http://www.myaffirmationlist.com/quotes.php">QUOTES</a></li>
                 <li><a href="http://www.myaffirmationlist.com/love-affirmations.php">LOVE AFFIRMATIONS</a></li>
                 <li><a href="http://www.myaffirmationlist.com/family-affirmations.php">FAMILY AFFIRMATIONS</a></li>
                 <li><a href="http://www.myaffirmationlist.com/health-affirmations.php">HEALTH AFFIRMATIONS</a></li>

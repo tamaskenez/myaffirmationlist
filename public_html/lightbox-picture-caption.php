@@ -7,4 +7,5 @@
 <a class="btn btn-social-icon btn-pinterest"><i class="fa fa-pinterest"></i></a-->
 <a class="btn btn-social-icon"><img src="pics/star.png" id="favouriteStar" alt="Add to favourites" title="Add to favourites" onclick="addToFavourites()"></a>
 <a id="close">Close <img src="close.png"></a>
+<div id="authorMessage"></div>
 <div id="favouriteMessage"></div>
