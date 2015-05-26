@@ -4,12 +4,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Quotes</title>
+  <title>Positive quotes</title>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Beautiful positive quote images to change your life.">
   <meta name="keywords" content="positive quotes, affirmation, love, positive, thoughts, attraction">
-  <meta name="description" content="Beautiful love affirmation images and affirmations.">
+  <meta name="description" content="Positive quotes with beautiful images.">
   <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
   <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
   <link type="text/css" rel="stylesheet" href="stylesheet_lightbox.css"/>
@@ -149,8 +150,18 @@
             </tr>
             <tr>
               <td width="33%" class="imageContainer"><img  src="smallpics/quote49.jpg" data-author="" class="img-responsive thumb"></td>
-              <!--td width="33%" class="imageContainer"><img  src="smallpics/quote50.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/quote51.jpg" data-author="" class="img-responsive thumb"></td-->
+              <td width="33%" class="imageContainer"><img  src="smallpics/quote50.jpg" data-author="Background picture by Paulo Otávio on Flickr." class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/quote51.jpg" data-author="" class="img-responsive thumb"></td>
+            </tr>
+            <tr>
+              <td width="33%" class="imageContainer"><img  src="smallpics/quote52.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/quote53.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/quote54.jpg" data-author="" class="img-responsive thumb"></td>
+            </tr>
+            <tr>
+              <td width="33%" class="imageContainer"><img  src="smallpics/quote55.jpg" data-author="Background picture by Always Shooting on Flickr." class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/quote56.jpg" data-author="Picture about Audrey found in Flickr, Walnut Studiolo's account." class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/quote57.jpg" data-author="" class="img-responsive thumb"></td>
             </tr>
 
   </table>

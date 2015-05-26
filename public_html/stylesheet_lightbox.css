@@ -139,6 +139,12 @@ color:white;
   }
 }*/
 
+@media (max-width: 1000px) {
+  .mainInfo {
+    display:none;
+  }
+}
+
 #close{
     display: inline-block;
     float: right;
@@ -223,4 +229,7 @@ img.cell-wrapper{
   padding-left: 0px;
 }
 
-
+.copyright{
+  text-align: center;
+  margin-top:40px;
+}

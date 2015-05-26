@@ -115,7 +115,7 @@
 <div class="row">
     <div class="col-md-2"><p></p></div>
     <div class="col-md-8">
-    <h1>More Money Affirmations:</h1>
+    <h1>More Morning Affirmations:</h1>
     </div>
     <div class="col-md-2"><p></p></div>
 </div>

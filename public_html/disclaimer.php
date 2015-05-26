@@ -66,33 +66,7 @@
 
   	
 
-<nav class="navbar navbar-default navbar-fixed-bottom" role="navigation">
-  <div class="container-fluid">
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-    </div>
-    <div class="collapse navbar-collapse" id="myNavbar">
-      <ul class="nav navbar-nav">
-                  <li><a href="aboutme.html">About me</a></li>
-                  <li><a href="disclaimer.html">Disclaimer</a></li>
-                  <li><a href="contactme.html">Contact me</a></li>
-      </ul>
-      <div class="nav navbar-nav navbar-right">
-          <a href="#" class="btn btn-social-icon btn-facebook"><i class="fa fa-facebook"></i></a>
-          <a class="btn btn-social-icon btn-twitter"><i class="fa fa-twitter"></i></a>
-          <a class="btn btn-social-icon btn-tumblr"><i class="fa fa-tumblr"></i></a>
-          <a class="btn btn-social-icon btn-google-plus"><i class="fa fa-google-plus"></i></a>
-          <a class="btn btn-social-icon btn-instagram"><i class="fa fa-instagram"></i></a>
-          <a class="btn btn-social-icon btn-pinterest"><i class="fa fa-pinterest"></i></a>
-          <a class="btn btn-social-icon btn-reddit"><i class="fa fa-reddit"></i></a>
-          </div>          
-    </div>
-  </div>
-</nav>
+
 
 <?php include 'footer_navbar.php';?>
   

@@ -8,6 +8,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="My blog...with positive thoughts, affirmations, quotes.">
   <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
   <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
   <link type="text/css" rel="stylesheet" href="stylesheet_lightbox.css"/>
@@ -82,7 +83,7 @@
 <p>Thank you mommies for always being there for us, for your children! Thank you for giving us the best present: our life. Thank you for being so patient when we are so stubborn! Thank you for caring us! Thank you for teaching us how to become a better person! Thank you for being there when we are lonely. Thank you for comforting us when we are sad. Thank you for letting us to fight our challenges, but being there to save us. Thanks for letting us to be who we really are.</p>
 <p>And most of all...thank you for loving us unconditionally! We love you!</p>
 
-<p>Please everyone, tell your mother today and every day how much you love her. This is the best present a mommy can get! Believe me! I am one of them. :) </p>
+<p>Please everyone, tell your mother every day how much you love her. This is the best present a mommy can get! Believe me! I am one of them. :) </p>
 </div>
 
   <div class="col-md-2"><p></p></div>

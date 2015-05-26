@@ -95,7 +95,7 @@
 </form>
 
 
-    <a href="index.php">Back to the main page</a>
+    <a href="http://www.myaffirmationlist.com/index.php">Back to the main page</a>
 </div>
 </body>
 </html>

@@ -68,7 +68,7 @@ if(image != '') {
 
     <div class="row">
       <div class="col-md-3"><p></p></div>
-      <div class="col-md-4"><img src="pics/quote-or-affirmation.png" alt="Positive quote or affirmation" class="img-responsive"/></div>
+      <div class="col-md-4"><img src="pics/quote-or-affirmation.png" alt="Positive quote or affirmation" class="img-responsive mainInfo"/></div>
       <a href="http://www.myaffirmationlist.com/quotes.php"><div class="chooser col-md-2"><img src="pics/quotes_chooser.png" alt="Positive quotes" class="img-responsive"/></div></a>
       <div class="col-md-3"><p></p></div>
 
