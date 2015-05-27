@@ -1,0 +1,27 @@
+/*****************STYLING IS DONE FOR RS SOCIAL BOX *******************/
+/***********FACEBOOK LIKE ,TWITTER SHARE, GPLUS SHARE*****************/
+
+.rs_share{
+	float:left;
+	width:800px;
+	overflow:hidden;
+}
+.rs_fb_share{
+	float:left;
+	width:150px;
+	overflow:hidden;
+}
+.rs_tweet_share{
+	float:left;
+	width:150px;
+	overflow:hidden;
+}
+.rs_gplus_share{
+	float:left;
+	width:200px;
+	overflow:hidden;
+}
+.rs_image_download{
+	float:left;
+	width:100px;
+}
