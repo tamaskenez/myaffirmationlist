@@ -18,6 +18,7 @@
   <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
   <script src="affirmation_jquery.js"></script>
   <link rel="icon" type="image/png" href="pics/heart.png">
+  <link rel="canonical" href="https://www.myaffirmationlist.com/career-affirmations.php" />
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -44,10 +45,21 @@
   		<div class="col-md-2"><p></p></div>
   		<div class="col-xs-12 col-md-8"><img src="pics/career.png" alt="Affirmations" class="img-responsive"/></div>
   		<div class="col-md-2"><p></p></div>
+
   	</div>
 
 <div class="row">
-    <div class="col-md-2"><p></p></div>
+    <div class="col-md-2"><p>
+      <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- career2 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3752069731700158"
+     data-ad-slot="1200690028"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></p></div>
     <div class="col-md-8">
       <div class="table-responsive">
           <table class="table table-wrapper">
@@ -121,6 +133,23 @@
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script></p></div>
+</div>
+
+<div class="row">
+    <div class="col-md-2"><p></p></div>
+    <div class="col-md-8">
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- career3 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3752069731700158"
+     data-ad-slot="5491288828"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+    </div>
+    <div class="col-md-2"><p></p></div>
 </div>
 
 <div class="row">

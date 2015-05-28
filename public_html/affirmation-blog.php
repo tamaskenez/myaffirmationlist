@@ -17,6 +17,7 @@
   <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
   <script src="affirmation_jquery.js"></script>
   <link rel="icon" type="image/png" href="smallpics/love24.jpg">
+  <link rel="canonical" href="https://www.myaffirmationlist.com/affirmation-blog.php" />
 
  <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

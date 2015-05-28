@@ -18,6 +18,7 @@
   <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
   <script src="affirmation_jquery.js"></script>
   <link rel="icon" type="image/png" href="pics/heart.png">
+  <link rel="canonical" href="https://www.myaffirmationlist.com/love-affirmations.php" />
 
 
 <script>
@@ -53,7 +54,18 @@
 
 
 <div class="row">
-    <div class="col-md-2"><p></p></div>
+    <div class="col-md-2"><p>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- love1 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3752069731700158"
+     data-ad-slot="5572014026"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+    </p></div>
     <div class="col-md-8">
       <div class="table-responsive">
           <table class="table table-wrapper">
@@ -127,9 +139,36 @@
 </div>
 </div>
 
-  <div class="col-md-2"><p>?</p></div>
+  <div class="col-md-2"><p>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- love2 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3752069731700158"
+     data-ad-slot="7048747228"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+  </p></div>
 </div>
 
+<div class="row">
+    <div class="col-md-2"><p></p></div>
+    <div class="col-md-8">
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- love3 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3752069731700158"
+     data-ad-slot="8525480420"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+    </div>
+    <div class="col-md-2"><p></p></div>
+</div>
 
 <div class="row">
     <div class="col-md-2"><p></p></div>

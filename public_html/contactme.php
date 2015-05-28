@@ -18,6 +18,7 @@
   <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
   <script src="affirmation_jquery.js"></script>
   <link rel="icon" type="image/png" href="pics/heart.png">
+  <link rel="canonical" href="https://www.myaffirmationlist.com/contactme.php" />
 
  <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

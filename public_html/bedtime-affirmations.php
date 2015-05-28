@@ -18,6 +18,7 @@
   <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
   <script src="affirmation_jquery.js"></script>
   <link rel="icon" type="image/png" href="pics/heart.png">
+  <link rel="canonical" href="https://www.myaffirmationlist.com/bedtime-affirmations.php" />
 
  <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -42,7 +43,7 @@
 
 <div class="row">
   		<div class="col-md-2"><p></p></div>
-  		<div class="col-xs-12 col-md-8"><img src="pics/BEDTIME.png" alt="Affirmations" class="img-responsive"/></div>
+  		<div class="col-xs-12 col-md-8"><img src="pics/BEDTIME.png" alt="Bedtime Affirmations" class="img-responsive"/></div>
   		<div class="col-md-2"><p></p></div>
   	</div>
 
@@ -55,57 +56,57 @@
       <div class="table-responsive">
           <table class="table table-wrapper">
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/bedtime1.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/bedtime2.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/bedtime3.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/bedtime-affirmations-1.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/bedtime-affirmations-2.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/bedtime-affirmations-3.jpg" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/bedtime4.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/bedtime5.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/bedtime6.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/bedtime-affirmations-4.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/bedtime-affirmations-5.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/bedtime-affirmations-6.jpg" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/bedtime7.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/bedtime8.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/bedtime9.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/bedtime-affirmations-7.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/bedtime-affirmations-8.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/bedtime-affirmations-9.jpg" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/bedtime10.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/bedtime11.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/bedtime12.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/bedtime-affirmations-10.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/bedtime-affirmations-11.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/bedtime-affirmations-12.jpg" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/bedtime13.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/bedtime14.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/bedtime15.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/bedtime-affirmations-13.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/bedtime-affirmations-14.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/bedtime-affirmations-15.jpg" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/bedtime16.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/bedtime17.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/bedtime18.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/bedtime-affirmations-16.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/bedtime-affirmations-17.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/bedtime-affirmations-18.jpg" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/bedtime19.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/bedtime20.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/bedtime21.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/bedtime-affirmations-19.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/bedtime-affirmations-20.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/bedtime-affirmations-21.jpg" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/bedtime22.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/bedtime23.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/bedtime24.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/bedtime-affirmations-22.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/bedtime-affirmations-23.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/bedtime-affirmations-24.jpg" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/bedtime25.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/bedtime26.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/bedtime27.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/bedtime-affirmations-25.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/bedtime-affirmations-26.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/bedtime-affirmations-27.jpg" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/bedtime28.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/bedtime29.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/bedtime30.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/bedtime-affirmations-28.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/bedtime-affirmations-29.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/bedtime-affirmations-30.jpg" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/bedtime31.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/bedtime-affirmations-31.jpg" data-author="" class="img-responsive thumb"></td>
             </tr> 
           </table>
       </div>
