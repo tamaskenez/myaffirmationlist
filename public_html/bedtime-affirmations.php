@@ -56,57 +56,57 @@
       <div class="table-responsive">
           <table class="table table-wrapper">
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/bedtime-affirmations-1.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/bedtime-affirmations-2.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/bedtime-affirmations-3.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/bedtime-affirmations-1.jpg" alt="Bedtime Affirmation - I close this day with joy and happiness!" title="Bedtime Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/bedtime-affirmations-2.jpg" alt="Bedtime Affirmation - I drift now into a sound and undisturbed sleep." title="Bedtime Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/bedtime-affirmations-3.jpg" alt="Bedtime Affirmation - I am very grateful for the beautiful life I have." title="Bedtime Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/bedtime-affirmations-4.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/bedtime-affirmations-5.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/bedtime-affirmations-6.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/bedtime-affirmations-4.jpg" alt="Bedtime Affirmation - Now I am letting go all my problems and worries and calming down to have a peaceful night." title="Bedtime Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/bedtime-affirmations-5.jpg" alt="Bedtime Affirmation - Everything that happened today brings me one step closer to my goals. " title="Bedtime Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/bedtime-affirmations-6.jpg" alt="Bedtime Affirmation - I believe that everything that happens to me is for the best." title="Bedtime Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/bedtime-affirmations-7.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/bedtime-affirmations-8.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/bedtime-affirmations-9.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/bedtime-affirmations-7.jpg" alt="Bedtime Affirmation - I am grateful for the love I get every day." title="Bedtime Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/bedtime-affirmations-8.jpg" alt="Bedtime Affirmation - I forgive everyone. I clean the rage out of me. I am free. I am at my peace." title="Bedtime Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/bedtime-affirmations-9.jpg" alt="Bedtime Affirmation - I am extremely grateful for the life I have. It is very important for me to remind myself every day to feel happy about the many precious things that I have in my life." title="Bedtime Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/bedtime-affirmations-10.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/bedtime-affirmations-11.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/bedtime-affirmations-12.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/bedtime-affirmations-10.jpg" alt="Bedtime Affirmation - I let my problems go and drift into a sound sleep." title="Bedtime Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/bedtime-affirmations-11.jpg" alt="Bedtime Affirmation - I am grateful for being naturally healthy." title="Bedtime Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/bedtime-affirmations-12.jpg" alt="Bedtime Affirmation - My mind is relaxed. I am balanced. I am feeling well." title="Bedtime Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/bedtime-affirmations-13.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/bedtime-affirmations-14.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/bedtime-affirmations-15.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/bedtime-affirmations-13.jpg" alt="Bedtime Affirmation - Everything that has happened today is for the best. Every new experience helps me to reach my goals." title="Bedtime Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/bedtime-affirmations-14.jpg" alt="Bedtime Affirmation - Music relaxes and soothes me. I feel easy now to let go the problems of the day." title="Bedtime Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/bedtime-affirmations-15.jpg" alt="Bedtime Affirmation - I meditate every night. After that I fall into a sound and deep sleep." title="Bedtime Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/bedtime-affirmations-16.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/bedtime-affirmations-17.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/bedtime-affirmations-18.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/bedtime-affirmations-16.jpg" alt="Bedtime Affirmation - I am very grateful for the precious present of life. I am very hapy to be alive." title="Bedtime Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/bedtime-affirmations-17.jpg" alt="Bedtime Affirmation - I am very grateful for living in a loving and caring relationship." title="Bedtime Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/bedtime-affirmations-18.jpg" alt="Bedtime Affirmation - I am grateful that I have a chance to heal." title="Bedtime Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/bedtime-affirmations-19.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/bedtime-affirmations-20.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/bedtime-affirmations-21.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/bedtime-affirmations-19.jpg" alt="Bedtime Affirmation - I am very grateful for my mother. She is the most caring and loving mum in the world. I love her very much." title="Bedtime Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/bedtime-affirmations-20.jpg" alt="Bedtime Affirmation - I am grateful for my family. They make me happy every day." title="Bedtime Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/bedtime-affirmations-21.jpg" alt="Bedtime Affirmation - I believe that every problem has a solution." title="Bedtime Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/bedtime-affirmations-22.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/bedtime-affirmations-23.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/bedtime-affirmations-24.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/bedtime-affirmations-22.jpg" alt="Bedtime Affirmation - Music always helps me to relax." title="Bedtime Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/bedtime-affirmations-23.jpg" alt="Bedtime Affirmation - I am willing to change my life with patience and calmness." title="Bedtime Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/bedtime-affirmations-24.jpg" alt="Bedtime Affirmation by Viggo Mortensen - I do each thing calmly and carefully and I get it done quicker and with much less stress." title="Bedtime Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/bedtime-affirmations-25.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/bedtime-affirmations-26.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/bedtime-affirmations-27.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/bedtime-affirmations-25.jpg" alt="Bedtime Affirmation - While I am asleep the healing processes of my body are activated." title="Bedtime Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/bedtime-affirmations-26.jpg" alt="Bedtime Affirmation - My dreams are awesome." title="Bedtime Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/bedtime-affirmations-27.jpg" alt="Bedtime Affirmation - I sleep very peacefully every night." title="Bedtime Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/bedtime-affirmations-28.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/bedtime-affirmations-29.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/bedtime-affirmations-30.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/bedtime-affirmations-28.jpg" alt="Bedtime Affirmation - I always wake up refreshed and energized." title="Bedtime Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/bedtime-affirmations-29.jpg" alt="Bedtime Affirmation - I am very grateful for everything I have." title="Bedtime Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/bedtime-affirmations-30.jpg" alt="Bedtime Affirmation - I am looking forward for the future and feeling grateful for the past." title="Bedtime Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/bedtime-affirmations-31.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/bedtime-affirmations-31.jpg" alt="Bedtime Affirmation - I am very grateful for my friends." title="Bedtime Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr> 
           </table>
       </div>
