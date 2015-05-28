@@ -63,9 +63,9 @@ $(document).ready(function(){
     var authorMsg= $(this).attr("data-author");
     $(".showpic").attr("src",srcPic);
     document.getElementById("authorMessage").innerHTML = authorMsg;
-    ss = "http://www.myaffirmationlist.com/og_" + srcPic.slice(10, -4);
-    a="FB.ui({method: 'share',href: '" + ss + "',}, function(response){})";
-    $("#popup-fb-share").attr("onclick", a);
+
+    $("#iframe-share").attr("src", "socialiframe.php?url=og_" + srcPic.slice(10, -4));
+
     $("#overlay").fadeIn(1000);
     $("#popup").fadeIn(1000);
     /*$('#popup').animate({
@@ -107,6 +107,9 @@ $("#close_favourite").click(function(){
     var srcNextPic = imgArray[nextImageIndex];
     var authorNextImg =authorArray[nextImageIndex];
     $(".showpic").attr("src",srcNextPic);
+
+    $("#iframe-share").attr("src", "socialiframe.php?url=og_" + srcNextPic.slice(10, -4));
+
     document.getElementById("authorMessage").innerHTML = authorNextImg;
     document.getElementById("favouriteMessage").innerHTML = "";
     imageClickedIndex = nextImageIndex;
@@ -121,6 +124,9 @@ $('.prev').click(function(){
     var srcNextPic = imgArray[nextImageIndex]; 
     var authorNextImg = authorArray[nextImageIndex];
     $(".showpic").attr("src",srcNextPic);
+
+    $("#iframe-share").attr("src", "socialiframe.php?url=og_" + srcNextPic.slice(10, -4));
+
     document.getElementById("authorMessage").innerHTML = authorNextImg;
     document.getElementById("favouriteMessage").innerHTML = "";
     imageClickedIndex = nextImageIndex;
