@@ -52,65 +52,95 @@
 
 
 <div class="row">
-    <div class="col-md-2"><p></p></div>
+    <div class="col-md-2"><p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- morning-affirmations-1 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3752069731700158"
+     data-ad-slot="4444874426"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></p></div>
     <div class="col-md-8">
       <div class="table-responsive">
           <table class="table table-wrapper">
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/morning1.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/morning2.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/morning3.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/morning-affirmations-1.jpg" alt="Morning Affirmation" title="Morning Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/morning-affirmations-2.jpg" alt="Morning Affirmation" title="Morning Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/morning-affirmations-3.jpg" alt="Morning Affirmation" title="Morning Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/morning4.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/morning5.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/morning6.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/morning-affirmations-4.jpg" alt="Morning Affirmation" title="Morning Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/morning-affirmations-5.jpg" alt="Morning Affirmation" title="Morning Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/morning-affirmations-6.jpg" alt="Morning Affirmation" title="Morning Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/morning7.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/morning8.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/morning9.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/morning-affirmations-7.jpg" alt="Morning Affirmation" title="Morning Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/morning-affirmations-8.jpg" alt="Morning Affirmation" title="Morning Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/morning-affirmations-9.jpg" alt="Morning Affirmation" title="Morning Affirmation" data-author="" class="img-responsive thumb"></td>
+            </tr> 
+            <tr>
+              <td width="100%" colspan="3"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- morning-affirmations-3 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3752069731700158"
+     data-ad-slot="8875074022"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></td>
             </tr> 
              <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/morning10.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/morning11.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/morning12.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/morning-affirmations-10.jpg" alt="Morning Affirmation" title="Morning Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/morning-affirmations-11.jpg" alt="Morning Affirmation" title="Morning Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/morning-affirmations-12.jpg" alt="Morning Affirmation" title="Morning Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/morning13.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/morning14.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/morning15.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/morning-affirmations-13.jpg" alt="Morning Affirmation" title="Morning Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/morning-affirmations-14.jpg" alt="Morning Affirmation" title="Morning Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/morning-affirmations-15.jpg" alt="Morning Affirmation" title="Morning Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/morning16.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/morning17.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/morning18.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/morning-affirmations-16.jpg" alt="Morning Affirmation" title="Morning Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/morning-affirmations-17.jpg" alt="Morning Affirmation" title="Morning Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/morning-affirmations-18.jpg" alt="Morning Affirmation" title="Morning Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/morning19.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/morning20.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/morning21.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/morning-affirmations-19.jpg" alt="Morning Affirmation" title="Morning Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/morning-affirmations-20.jpg" alt="Morning Affirmation" title="Morning Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/morning-affirmations-21.jpg" alt="Morning Affirmation" title="Morning Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/morning22.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/morning23.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/morning24.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/morning-affirmations-22.jpg" alt="Morning Affirmation" title="Morning Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/morning-affirmations-23.jpg" alt="Morning Affirmation" title="Morning Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/morning-affirmations-24.jpg" alt="Morning Affirmation" title="Morning Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr> 
              <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/morning25.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/morning26.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/morning27.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/morning-affirmations-25.jpg" alt="Morning Affirmation" title="Morning Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/morning-affirmations-26.jpg" alt="Morning Affirmation" title="Morning Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/morning-affirmations-27.jpg" alt="Morning Affirmation" title="Morning Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr> 
              <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/morning28.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/morning29.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/morning30.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/morning-affirmations-28.jpg" alt="Morning Affirmation" title="Morning Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/morning-affirmations-29.jpg" alt="Morning Affirmation" title="Morning Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/morning-affirmations-30.jpg" alt="Morning Affirmation" title="Morning Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr> 
   </table>
 </div>
 </div>
 
-  <div class="col-md-2"><p></p></div>
+  <div class="col-md-2"><p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- morning-affirmations-2 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3752069731700158"
+     data-ad-slot="5921607626"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></p></div>
 </div>
 
 <div class="row">

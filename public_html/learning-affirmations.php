@@ -45,7 +45,7 @@
 <!--photo header-->
     <div class="row">
       <div class="col-md-2"><p></p></div>
-      <div class="col-xs-12 col-md-8"><img src="pics/exam.png" alt="Affirmations" class="img-responsive"/></div>
+      <div class="col-xs-12 col-md-8"><img src="pics/exam.png" alt="Learning and Exam Affirmations" class="img-responsive"/></div>
       <div class="col-md-2"><p></p></div>
     </div>
 
@@ -54,65 +54,96 @@
 
 
 <div class="row">
-    <div class="col-md-2"><p></p></div>
+    <div class="col-md-2"><p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- learning1 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3752069731700158"
+     data-ad-slot="7956744027"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></p></div>
+
     <div class="col-md-8">
       <div class="table-responsive">
           <table class="table table-wrapper">
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/learning1.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/learning2.jpg" data-author="Background image by Rosaura Ochoa on Flickr." class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/learning3.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/learning-affirmations-1.jpg" alt="Learning and Exam Affirmation" title="Learning and Exam Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/learning-affirmations-2.jpg" alt="Learning and Exam Affirmation" title="Learning and Exam Affirmation" data-author="Background image by Rosaura Ochoa on Flickr." class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/learning-affirmations-3.jpg" alt="Learning and Exam Affirmation" title="Learning and Exam Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/learning4.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/learning5.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/learning6.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/learning-affirmations-4.jpg" alt="Learning and Exam Affirmation" title="Learning and Exam Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/learning-affirmations-5.jpg" alt="Learning and Exam Affirmation" title="Learning and Exam Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/learning-affirmations-6.jpg" alt="Learning and Exam Affirmation" title="Learning and Exam Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/learning7.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/learning8.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/learning9.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/learning-affirmations-7.jpg" alt="Learning and Exam Affirmation" title="Learning and Exam Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/learning-affirmations-8.jpg" alt="Learning and Exam Affirmation" title="Learning and Exam Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/learning-affirmations-9.jpg" alt="Learning and Exam Affirmation" title="Learning and Exam Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/learning10.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/learning11.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/learning12.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="100%" colspan="3"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- learning3 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3752069731700158"
+     data-ad-slot="1910210429"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/learning13.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/learning14.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/learning15.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/learning-affirmations-10.jpg" alt="Learning and Exam Affirmation" title="Learning and Exam Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/learning-affirmations-11.jpg" alt="Learning and Exam Affirmation" title="Learning and Exam Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/learning-affirmations-12.jpg" alt="Learning and Exam Affirmation" title="Learning and Exam Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/learning16.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/learning17.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/learning18.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/learning-affirmations-13.jpg" alt="Learning and Exam Affirmation" title="Learning and Exam Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/learning-affirmations-14.jpg" alt="Learning and Exam Affirmation" title="Learning and Exam Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/learning-affirmations-15.jpg" alt="Learning and Exam Affirmation" title="Learning and Exam Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/learning19.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/learning20.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/learning21.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/learning-affirmations-16.jpg" alt="Learning and Exam Affirmation" title="Learning and Exam Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/learning-affirmations-17.jpg" alt="Learning and Exam Affirmation" title="Learning and Exam Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/learning-affirmations-18.jpg" alt="Learning and Exam Affirmation" title="Learning and Exam Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/learning22.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/learning23.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/learning24.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/learning-affirmations-19.jpg" alt="Learning and Exam Affirmation" title="Learning and Exam Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/learning-affirmations-20.jpg" alt="Learning and Exam Affirmation" title="Learning and Exam Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/learning-affirmations-21.jpg" alt="Learning and Exam Affirmation" title="Learning and Exam Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/learning25.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/learning26.jpg" cdata-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/learning27.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/learning-affirmations-22.jpg" alt="Learning and Exam Affirmation" title="Learning and Exam Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/learning-affirmations-23.jpg" alt="Learning and Exam Affirmation" title="Learning and Exam Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/learning-affirmations-24.jpg" alt="Learning and Exam Affirmation" title="Learning and Exam Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/learning28.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/learning29.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/learning30.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/learning-affirmations-25.jpg" alt="Learning and Exam Affirmation" title="Learning and Exam Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/learning-affirmations-26.jpg" alt="Learning and Exam Affirmation" title="Learning and Exam Affirmation" cdata-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/learning-affirmations-27.jpg" alt="Learning and Exam Affirmation" title="Learning and Exam Affirmation" data-author="" class="img-responsive thumb"></td>
+            </tr> 
+            <tr>
+              <td width="33%" class="imageContainer"><img  src="smallpics/learning-affirmations-28.jpg" alt="Learning and Exam Affirmation" title="Learning and Exam Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/learning-affirmations-29.jpg" alt="Learning and Exam Affirmation" title="Learning and Exam Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/learning-affirmations-30.jpg" alt="Learning and Exam Affirmation" title="Learning and Exam Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr> 
   </table>
 </div>
 </div>
 
-  <div class="col-md-2"><p></p></div>
+  <div class="col-md-2"><p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- learning2 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3752069731700158"
+     data-ad-slot="9433477227"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></p></div>
 </div>
 
 <div class="row">

@@ -1,2 +1,2 @@
 RewriteEngine On
-RewriteRule ^og_(.+)$ index.php?image=$1 [L]
+RewriteRule ^og2_(.+)$ index.php?image=$1 [L]

@@ -43,7 +43,7 @@
 <!--photo header-->
   	<div class="row">
   		<div class="col-md-2"><p></p></div>
-  		<div class="col-xs-12 col-md-8"><img src="pics/success_stories.png" alt="Affirmations" class="img-responsive"/></div>
+  		<div class="col-xs-12 col-md-8"><img src="pics/success_stories.png" alt="Affirmation Success Stories" class="img-responsive"/></div>
   		<div class="col-md-2"><p></p></div>
   	</div>
 
@@ -54,7 +54,16 @@
 	</div>
   <!-- end of nav tabs-->
 <div class="row">
-    <div class="col-md-2"><p></p></div>
+    <div class="col-md-2"><p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- affirmation-success-stories-1 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3752069731700158"
+     data-ad-slot="6979538425"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></p></div>
     <div class="col-md-8">
     	<h3>Please share your success story with us !</h3>
       <p>I believe that success stories have a very strong motivational power. Just look at the success stories on the dieting sites! Why not to do the same with the affirmations?</p>
@@ -63,7 +72,16 @@
       <p>It doesn&#39;t have to be a success story of using this website. If you heard about affirmations from other source (e.g. Louise L. Hay or other books/websites) and you have experienced some good result, I think it&#39;s worth it to share with the others. The main point is to help other people!</p>
   </div>
 
-  <div class="col-md-2"><p></p></div>
+  <div class="col-md-2"><p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- affirmation-success-stories-2 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3752069731700158"
+     data-ad-slot="9933004824"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></p></div>
 </div>
 
 

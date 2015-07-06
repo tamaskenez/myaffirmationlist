@@ -52,14 +52,27 @@
 
 <div class="row">
     <div class="col-md-2"><p></p></div>
-    <div class="col-md-8">
+    <div class="col-md-4 article" >
     <h1>About my one and only life</h1>
     <img src="smallpics/motivation25.jpg" alt="I have only one life. I live this one as happily as I can." title="Motivational Affirmation" class="img-responsive blog_image">
-      <p>I have only one life. I have to live this one as happily as I can. No matter what... <br />I release all my anger. I do not have time to care about hatred, jealousy, envy, enemies. I spare my time for love. To love my child, to love my husband, to love my friends, to love my family, these are what really matters. <br />I live for the moment. I do not think about the past, do not fear the future. I have to do my best right now, right here. And I do it. I am doing everything to achieve my dreams. To have my dream job, to have my dream house, to stay healthy, to love and to be loved. <br />I have every tool in my hand to reach my goals, I just have to use them. And I use them. I use them well! <br />I take full responsibility for my life! I have full control. <br />And most of all...I am grateful for what I have already got!</p>
+      <p>I have only one life. I have to live this one as happily as I can. No matter what... <br />
+      <div class="readmore">
+      To read more please click here
+      </div>
+      <span id="onelife" style="display:none">
+      I release all my anger. I do not have time to care about hatred, jealousy, envy, enemies. I spare my time for love. To love my child, to love my husband, to love my friends, to love my family, these are what really matters. <br />I live for the moment. I do not think about the past, do not fear the future. I have to do my best right now, right here. And I do it. I am doing everything to achieve my dreams. To have my dream job, to have my dream house, to stay healthy, to love and to be loved. <br />I have every tool in my hand to reach my goals, I just have to use them. And I use them. I use them well! <br />I take full responsibility for my life! I have full control. <br />And most of all...I am grateful for what I have already got!</p>
+      </span>
       <hr />
-      <h1>About gratefulness</h1>
+
+     
+      </div>
+<div class="col-md-4"> <h1>About gratefulness</h1>
     <img src="smallpics/love24.jpg" alt="I am grateful for the love I get every day." title="Love Affirmation" class="img-responsive blog_image">
       <p>In Hungary we have a great tradition of complaining. Maybe it is because of our historical roots or the economical background, I don&#39;t know. One thing is for sure: I used to complain a lot.</br>
+      <div class="readmore">
+      To read more please click here
+      </div>
+       <span id="gratefulness" style="display:none">
       I didn&#39;t like if the weather was cold, but I hated summer heat. I wanted a car, but when I finally got one (at the age of 32) I complained about driving and the fear I felt that I crash the car or myself.</br>
       I wanted a baby, but after my son was born I used to tell my friends how hard it is to take care of him.
       I complained about my job, love life, money, my parents, my overweight problems, actually everything.</br>
@@ -71,25 +84,35 @@
       It is not magic or an unexplainable thing. I simply love that feeling when I think about the good things in my life, and this can make huge improvement in one&#39;s life. Actually I love the feeling of gratefulness so much, that I started to practice it daytime as well. Believe me, it is awesome!</br>
       Now I like that I can experience snow, rain, warm and cold weather. I feel extremely lucky that I have my husband and my son in my life, their love means the world to me. I am grateful for the joy my friends bring into my life. I am happy that I am employed, even if it isn&#39;t my dream job. This creates me opportunity to learn something I love and gives me hope that one day my hobby will be my job. I believe that all is well in my life and every area is getting better and better every day!</br>
       I love my life so much!</br>
-      Thanks for the Universe, thanks for God!</p>
+      Thanks for the Universe, thanks for God!</p></span><hr /> </div>
 
+</div>
 
-<hr />
-<h1>Thanks for the mommies!</h1>
+  <div class="col-md-2"><p></p></div>
+</div>
+
+<div class="row">
+<div class="col-md-2"><p></p></div>
+<div class="col-md-4"><p><h1>Thanks for the mommies!</h1>
 <img src="smallpics/love36.jpg" alt="I love my mom." title="Love Affirmation" class="img-responsive blog_image">
 <p><q>All that I am or ever hope to be, I owe to my angel mother.</q><p>
 <p>-Abraham Lincoln-</p>
 <br>
 <p>Yes, they are angels!</p>
-<p>Thank you mommies for always being there for us, for your children! Thank you for giving us the best present: our life. Thank you for being so patient when we are so stubborn! Thank you for caring us! Thank you for teaching us how to become a better person! Thank you for being there when we are lonely. Thank you for comforting us when we are sad. Thank you for letting us to fight our challenges, but being there to save us. Thanks for letting us to be who we really are.</p>
+<p>Thank you mommies for always being there for us, for your children! </p>
+<div class="readmore">
+      To read more please click here
+      </div>
+      <span id="mommies" style="display:none"><p>Thank you for giving us the best present: our life. Thank you for being so patient when we are so stubborn! Thank you for caring us! Thank you for teaching us how to become a better person! Thank you for being there when we are lonely. Thank you for comforting us when we are sad. Thank you for letting us to fight our challenges, but being there to save us. Thanks for letting us to be who we really are.</p>
 <p>And most of all...thank you for loving us unconditionally! We love you!</p>
 
-<p>Please everyone, tell your mother every day how much you love her. This is the best present a mommy can get! Believe me! I am one of them. :) </p>
+<p>Please everyone, tell your mother every day how much you love her. This is the best present a mommy can get! Believe me! I am one of them. :)</span> </p></p><hr /></div>
+<div class="col-md-4"><p></p></div>
+<div class="col-md-2"><p></p></div>
+
 </div>
 
-  <div class="col-md-2"><p></p></div>
-</div>
-</div>
+</div> <!--end of container fluid-->
 
 
 

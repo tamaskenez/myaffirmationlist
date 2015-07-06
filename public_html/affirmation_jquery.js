@@ -64,7 +64,7 @@ $(document).ready(function(){
     $(".showpic").attr("src",srcPic);
     document.getElementById("authorMessage").innerHTML = authorMsg;
 
-    $("#iframe-share").attr("src", "socialiframe.php?url=og_" + srcPic.slice(10, -4));
+    $("#iframe-share").attr("src", "socialiframe.php?url=og2_" + srcPic.slice(10, -4));
 
     $("#overlay").fadeIn(1000);
     $("#popup").fadeIn(1000);
@@ -108,7 +108,7 @@ $("#close_favourite").click(function(){
     var authorNextImg =authorArray[nextImageIndex];
     $(".showpic").attr("src",srcNextPic);
 
-    $("#iframe-share").attr("src", "socialiframe.php?url=og_" + srcNextPic.slice(10, -4));
+    $("#iframe-share").attr("src", "socialiframe.php?url=og2_" + srcNextPic.slice(10, -4));
 
     document.getElementById("authorMessage").innerHTML = authorNextImg;
     document.getElementById("favouriteMessage").innerHTML = "";
@@ -125,7 +125,7 @@ $('.prev').click(function(){
     var authorNextImg = authorArray[nextImageIndex];
     $(".showpic").attr("src",srcNextPic);
 
-    $("#iframe-share").attr("src", "socialiframe.php?url=og_" + srcNextPic.slice(10, -4));
+    $("#iframe-share").attr("src", "socialiframe.php?url=og2_" + srcNextPic.slice(10, -4));
 
     document.getElementById("authorMessage").innerHTML = authorNextImg;
     document.getElementById("favouriteMessage").innerHTML = "";
@@ -174,7 +174,10 @@ $(document).keydown(function(e) {
   }
 });
 
-
+$( ".readmore" ).click(function() {
+  var nextSpanId = $(this).nextAll("span[id]:first").attr("id");
+  $("#" + nextSpanId ).slideToggle( "slow");
+});
 
 /*$("button.login_btn").click(function(){
     $("#overlay").fadeIn(1000);

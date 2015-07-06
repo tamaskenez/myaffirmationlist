@@ -67,62 +67,74 @@
       <div class="table-responsive">
           <table class="table table-wrapper">
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/family1.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/family2.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/family3.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/family-affirmations-1.jpg" alt="Family Affirmation" title="Family Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/family-affirmations-2.jpg" alt="Family Affirmation" title="Family Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/family-affirmations-3.jpg" alt="Family Affirmation" title="Family Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/family4.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/family5.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/family6.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/family-affirmations-4.jpg" alt="Family Affirmation" title="Family Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/family-affirmations-5.jpg" alt="Family Affirmation" title="Family Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/family-affirmations-6.jpg" alt="Family Affirmation" title="Family Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/family7.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/family8.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/family9.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/family-affirmations-7.jpg" alt="Family Affirmation" title="Family Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/family-affirmations-8.jpg" alt="Family Affirmation" title="Family Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/family-affirmations-9.jpg" alt="Family Affirmation" title="Family Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/family10.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/family11.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/family12.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="100%" colspan="3"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- family3 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3752069731700158"
+     data-ad-slot="5432413223"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/family13.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/family14.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/family15.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/family-affirmations-10.jpg" alt="Family Affirmation" title="Family Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/family-affirmations-11.jpg" alt="Family Affirmation" title="Family Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/family-affirmations-12.jpg" alt="Family Affirmation" title="Family Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/family16.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/family17.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/family18.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/family-affirmations-13.jpg" alt="Family Affirmation" title="Family Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/family-affirmations-14.jpg" alt="Family Affirmation" title="Family Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/family-affirmations-15.jpg" alt="Family Affirmation" title="Family Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/family19.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/family20.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/family21.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/family-affirmations-16.jpg" alt="Family Affirmation" title="Family Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/family-affirmations-17.jpg" alt="Family Affirmation" title="Family Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/family-affirmations-18.jpg" alt="Family Affirmation" title="Family Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/family22.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/family23.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/family24.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/family-affirmations-19.jpg" alt="Family Affirmation" title="Family Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/family-affirmations-20.jpg" alt="Family Affirmation" title="Family Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/family-affirmations-21.jpg" alt="Family Affirmation" title="Family Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/family25.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/family26.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/family27.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/family-affirmations-22.jpg" alt="Family Affirmation" title="Family Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/family-affirmations-23.jpg" alt="Family Affirmation" title="Family Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/family-affirmations-24.jpg" alt="Family Affirmation" title="Family Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/family28.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/family29.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/family30.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/family-affirmations-25.jpg" alt="Family Affirmation" title="Family Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/family-affirmations-26.jpg" alt="Family Affirmation" title="Family Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/family-affirmations-27.jpg" alt="Family Affirmation" title="Family Affirmation" data-author="" class="img-responsive thumb"></td>
+            </tr> 
+            <tr>
+              <td width="33%" class="imageContainer"><img  src="smallpics/family-affirmations-28.jpg" alt="Family Affirmation" title="Family Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/family-affirmations-29.jpg" alt="Family Affirmation" title="Family Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/family-affirmations-30.jpg" alt="Family Affirmation" title="Family Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr>
              <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/family31.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/family32.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/family33.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/family-affirmations-31.jpg" alt="Family Affirmation" title="Family Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/family-affirmations-32.jpg" alt="Family Affirmation" title="Family Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/family-affirmations-33.jpg" alt="Family Affirmation" title="Family Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/family34.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/family-affirmations-34.jpg" alt="Family Affirmation" title="Family Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr> 
   </table>
 </div>
@@ -142,22 +154,6 @@
   </p></div>
 </div>
 
-<div class="row">
-    <div class="col-md-2"><p></p></div>
-    <div class="col-md-8">
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- family3 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-3752069731700158"
-     data-ad-slot="5432413223"
-     data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-    </div>
-    <div class="col-md-2"><p></p></div>
-</div>
 
 <div class="row">
     <div class="col-md-2"><p></p></div>

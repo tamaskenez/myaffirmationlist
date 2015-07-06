@@ -10,7 +10,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="Beautiful positive quote images to change your life.">
   <meta name="keywords" content="positive quotes, affirmation, love, positive thoughts, positive quote images, law of attraction">
-  <meta name="description" content="Positive quotes with beautiful images.">
   <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
   <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
   <link type="text/css" rel="stylesheet" href="stylesheet_lightbox.css"/>
@@ -19,7 +18,7 @@
   <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
   <script src="affirmation_jquery.js"></script>
   <link rel="icon" type="image/png" href="pics/heart.png">
-  <link rel="canonical" href="https://www.myaffirmationlist.com/quotes.php" />
+  <link rel="canonical" href="http://www.myaffirmationlist.com/quotes.php" />
 
 
 
@@ -82,6 +81,73 @@
     <div class="col-md-8">
       <div class="table-responsive">
           <table class="table table-wrapper">
+             <tr>
+              <td width="33%" class="imageContainer"><img  src="smallpics/positive-quote-2.jpg"  alt="Positive quote" title="Positive quote" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/positive-quote-95.jpg" alt="Positive quote" title="Positive quote" data-author="Background picture by Marcus Grossalber on Flickr." class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/positive-quote-94.jpg" alt="Positive quote" title="Positive quote" data-author="Background picture by JFXie on Flickr." class="img-responsive thumb"></td>
+            </tr> 
+             <tr>
+              <td width="33%" class="imageContainer"><img  src="smallpics/positive-quote-93.jpg"  alt="Positive quote" title="Positive quote" data-author="Background picture by David Sedlmayer on Flickr." class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/positive-quote-92.jpg" alt="Positive quote" title="Positive quote" data-author="Background picture by David Sedlmayer on Flickr." class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/positive-quote-91.jpg" alt="Positive quote" title="Positive quote" data-author="Background picture by cadillacdeville2000 on Flickr." class="img-responsive thumb"></td>
+            </tr> 
+            <tr>
+              <td width="100%" colspan="3"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- quote3 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3752069731700158"
+     data-ad-slot="8804682024"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></td>
+            </tr>
+             <tr>
+              <td width="33%" class="imageContainer"><img  src="smallpics/positive-quote-90.jpg"  alt="Positive quote" title="Positive quote" data-author="Background picture by {AndreaRenee} on Flickr." class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/positive-quote-89.jpg" alt="Positive quote" title="Positive thought" data-author="Background picture by {AndreaRenee} on Flickr." class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/positive-quote-88.jpg" alt="Positive quote" title="Positive quote" data-author="" class="img-responsive thumb"></td>
+            </tr> 
+             <tr>
+              <td width="33%" class="imageContainer"><img  src="smallpics/positive-quote-87.jpg"  alt="Positive quote" title="Positive quote" data-author="Background picture by Tim_in_Ohio on Flickr." class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/positive-quote-86.jpg" alt="Positive quote" title="Positive quote" data-author="Background picture by Nazer K on Flickr." class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/positive-quote-85.jpg" alt="Positive quote" title="Positive quote" data-author="Background picture by jessicahtam on Flickr." class="img-responsive thumb"></td>
+            </tr> 
+             <tr>
+               <td width="33%" class="imageContainer"><img  src="smallpics/positive-quote-20.jpg" alt="The best thing to hold onto is each other. - Positive quote by Audrey Hepburn." title="Positive quote" data-author="Background picture by Kohei314 on Flickr." class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/positive-quote-71.jpg" alt="Positive quote" title="Positive quote"data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/positive-quote-84.jpg" alt="Positive quote" title="Positive quote" data-author="" class="img-responsive thumb"></td>
+            </tr> 
+             <tr>
+              <td width="33%" class="imageContainer"><img  src="smallpics/positive-quote-83.jpg"  alt="Positive quote" title="Positive quote" data-author="Background picture by sunsinger on Flickr." class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/positive-quote-82.jpg" alt="Positive quote" title="Positive quote" data-author="Background picture by .noir photographer on Flickr." class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/positive-quote-81.jpg" alt="Positive quote" title="Positive quote" data-author="Background picture by HolgerVaga on Flickr." class="img-responsive thumb"></td>
+            </tr> 
+             <tr>
+              <td width="33%" class="imageContainer"><img  src="smallpics/positive-quote-80.jpg"  alt="Positive quote" title="Positive quote" data-author="Background picture by marfis75 on Flickr." class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/positive-quote-79.jpg" alt="Positive quote" title="Positive quote" data-author="Background picture by (Nikos Koutoulas) on Flickr." class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/positive-quote-78.jpg" alt="Positive quote" title="Positive quote" data-author="Background picture by Rosaura Ochoa on Flickr." class="img-responsive thumb"></td>
+            </tr> 
+             <tr>
+              <td width="33%" class="imageContainer"><img  src="smallpics/positive-quote-77.jpg"  alt="Positive quote" title="Positive quote" data-author="Background picture by Manu_H on Flickr." class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/positive-quote-76.jpg" alt="Positive quote" title="Positive quote" data-author="Background picture by chippycc on Flickr." class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/positive-quote-75.jpg" alt="Positive quote" title="Positive quote" data-author="Background picture by Keoni Cabral on Flickr." class="img-responsive thumb"></td>
+            </tr> 
+             <tr>
+              <td width="33%" class="imageContainer"><img  src="smallpics/positive-quote-74.jpg"  alt="Positive quote" title="Positive quote" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/positive-quote-73.jpg" alt="Positive quote" title="Positive quote" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/positive-quote-72.jpg" alt="Positive quote" title="Positive quote" data-author="" class="img-responsive thumb"></td>
+            </tr> 
+             <tr>
+              <td width="33%" class="imageContainer"><img  src="smallpics/positive-quote-71.jpg"  alt="Positive quote" title="Positive quote" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/positive-quote-70.jpg" alt="Positive quote" title="Positive quote" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/positive-quote-69.jpg" alt="Positive quote" title="Positive quote" data-author="" class="img-responsive thumb"></td>
+            </tr> 
+            <tr>
+              <td width="33%" class="imageContainer"><img  src="smallpics/positive-quote-68.jpg"  alt="Positive quote" title="Positive quote" data-author="Background picture by aguscr on Flickr." class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/positive-quote-67.jpg" alt="Positive quote" title="Positive quote" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/positive-quote-66.jpg" alt="Positive quote" title="Positive quote" data-author="Background picture by fortherock on Flickr." class="img-responsive thumb"></td>
+            </tr> 
             <tr>
               <td width="33%" class="imageContainer"><img  src="smallpics/positive-quote-1.jpg"  alt="Start where you are. Use what you have. Do what you can. - Positive quote by Arthur Ashe" title="Positive quote" data-author="" class="img-responsive thumb"></td>
               <td width="33%" class="imageContainer"><img src="smallpics/positive-quote-2.jpg" alt="The best is yet to come. - Positive thought" title="Positive thought" data-author="" class="img-responsive thumb"></td>
@@ -97,6 +163,7 @@
               <td width="33%" class="imageContainer"><img  src="smallpics/positive-quote-8.jpg" alt="When I look into an eye of an animal I do not see an animal. I see a living being. I see a friend. I feel a soul. Positive quote by A.D. Williams" title="Positive quote about animals" data-author="Background picture by Jonathan Kriz on Flickr." class="img-responsive thumb"></td>
               <td width="33%" class="imageContainer"><img  src="smallpics/positive-quote-9.jpg" alt="A friend is someone who gives you total freedom to be yourself. - Positive quote by Jim Morrison" title="Positive quote about friendship" data-author="Background picture by Bhavna Sayana on Flickr." class="img-responsive thumb"></td>
             </tr>
+            
             <tr>
               <td width="33%" class="imageContainer"><img  src="smallpics/positive-quote-10.jpg" alt="Study nature, love nature, stay close to nature. It will never fail you. - Positive quote by Frank Lloyd Wright" title="Positive quote about nature" data-author="Background picture by Moyan Brenn on Flickr." class="img-responsive thumb"></td>
               <td width="33%" class="imageContainer"><img  src="smallpics/positive-quote-11.jpg" alt="To hold on to the past always creates suffering, even if it was wonderful. - Quote by Teal Scott" title="Quote about the past" data-author="Background picture by victoria white2010 on Flickr." class="img-responsive thumb"></td>
@@ -211,22 +278,6 @@
   </p></div>
 </div>
 
-<div class="row">
-    <div class="col-md-2"><p></p></div>
-    <div class="col-md-8">
- <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- quote3 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-3752069731700158"
-     data-ad-slot="8804682024"
-     data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-    </div>
-    <div class="col-md-2"><p></p></div>
-</div>
 
 
  <!--script type="text/javascript">

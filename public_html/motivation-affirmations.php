@@ -52,84 +52,114 @@
 
 
 <div class="row">
-    <div class="col-md-2"><p></p></div>
+    <div class="col-md-2"><p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- motivation1 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3752069731700158"
+     data-ad-slot="3526544423"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></p></div>
     <div class="col-md-8">
       <div class="table-responsive">
           <table class="table table-wrapper">
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/motivation1.jpg" data-author="Background image by Georgie Sharp on Flickr." class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/motivation2.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/motivation3.jpg" data-author="Background image by Trish Hamme on Flickr." class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/motivation-affirmations-1.jpg" data-author="Background image by Georgie Sharp on Flickr." class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/motivation-affirmations-2.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/motivation-affirmations-3.jpg" data-author="Background image by Trish Hamme on Flickr." class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/motivation4.jpg" data-author="Background image by @Doug88888 on Flickr." class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/motivation5.jpg" data-author="Background image by Neal. on Flickr." class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/motivation6.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/motivation-affirmations-4.jpg" data-author="Background image by @Doug88888 on Flickr." class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/motivation-affirmations-5.jpg" data-author="Background image by Neal. on Flickr." class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/motivation-affirmations-6.jpg" data-author="" class="img-responsive thumb"></td>
             </tr>
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/motivation7.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/motivation8.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/motivation9.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/motivation-affirmations-7.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/motivation-affirmations-8.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/motivation-affirmations-9.jpg" data-author="" class="img-responsive thumb"></td>
             </tr>
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/motivation10.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/motivation11.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/motivation12.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="100%" colspan="3"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- motivation3 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3752069731700158"
+     data-ad-slot="6480010821"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></td>
+            </tr> 
+            <tr>
+              <td width="33%" class="imageContainer"><img  src="smallpics/motivation-affirmations-10.jpg" alt="Motivational affirmation" title="Motivational Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/motivation-affirmations-11.jpg" alt="Motivational affirmation" title="Motivational Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/motivation-affirmations-12.jpg" alt="Motivational affirmation" title="Motivational Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr>
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/motivation13.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/motivation14.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/motivation15.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/motivation-affirmations-13.jpg" alt="Motivational affirmation" title="Motivational Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/motivation-affirmations-14.jpg" alt="Motivational affirmation" title="Motivational Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/motivation-affirmations-15.jpg" alt="Motivational affirmation" title="Motivational Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr>
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/motivation16.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/motivation17.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/motivation18.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/motivation-affirmations-16.jpg" alt="Motivational affirmation" title="Motivational Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/motivation-affirmations-17.jpg" alt="Motivational affirmation" title="Motivational Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/motivation-affirmations-18.jpg" alt="Motivational affirmation" title="Motivational Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr>
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/motivation19.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/motivation20.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/motivation21.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/motivation-affirmations-19.jpg" alt="Motivational affirmation" title="Motivational Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/motivation-affirmations-20.jpg" alt="Motivational affirmation" title="Motivational Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/motivation-affirmations-21.jpg" alt="Motivational affirmation" title="Motivational Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr>
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/motivation22.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/motivation23.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/motivation24.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/motivation-affirmations-22.jpg" alt="Motivational affirmation" title="Motivational Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/motivation-affirmations-23.jpg" alt="Motivational affirmation" title="Motivational Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/motivation-affirmations-24.jpg" alt="Motivational affirmation" title="Motivational Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr>
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/motivation25.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/motivation26.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/motivation27.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/motivation-affirmations-25.jpg" alt="Motivational affirmation" title="Motivational Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/motivation-affirmations-26.jpg" alt="Motivational affirmation" title="Motivational Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/motivation-affirmations-27.jpg" alt="Motivational affirmation" title="Motivational Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr>
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/motivation28.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/motivation29.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/motivation30.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/motivation-affirmations-28.jpg" alt="Motivational affirmation" title="Motivational Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/motivation-affirmations-29.jpg" alt="Motivational affirmation" title="Motivational Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/motivation-affirmations-30.jpg" alt="Motivational affirmation" title="Motivational Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr>
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/motivation31.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/motivation32.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/motivation33.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/motivation-affirmations-31.jpg" alt="Motivational affirmation" title="Motivational Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/motivation-affirmations-32.jpg" alt="Motivational affirmation" title="Motivational Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/motivation-affirmations-33.jpg" alt="Motivational affirmation" title="Motivational Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr>
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/motivation34.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/motivation35.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/motivation36.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/motivation-affirmations-34.jpg" alt="Motivational affirmation" title="Motivational Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/motivation-affirmations-35.jpg" alt="Motivational affirmation" title="Motivational Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/motivation-affirmations-36.jpg" alt="Motivational affirmation" title="Motivational Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr>
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/motivation37.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/motivation38.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/motivation39.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/motivation-affirmations-37.jpg" alt="Motivational affirmation" title="Motivational Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/motivation-affirmations-38.jpg" alt="Motivational affirmation" title="Motivational Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/motivation-affirmations-39.jpg" alt="Motivational affirmation" title="Motivational Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr>
              <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/motivation40.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/motivation41.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/motivation-affirmations-40.jpg" alt="Motivational affirmation" title="Motivational Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/motivation-affirmations-41.jpg" alt="Motivational affirmation" title="Motivational Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr>
   </table>
 </div>
 </div>
 
-  <div class="col-md-2"><p></p></div>
+  <div class="col-md-2"><p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- motivation2 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3752069731700158"
+     data-ad-slot="5003277623"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></p></div>
 </div>
 
 <div class="row">

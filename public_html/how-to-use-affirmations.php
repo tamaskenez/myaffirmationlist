@@ -42,14 +42,23 @@
 
 <div class="row">
   		<div class="col-md-2"><p></p></div>
-  		<div class="col-xs-12 col-md-8"><img src="pics/howtouse.png" alt="How to use affirmations" class="img-responsive"/></div>
+  		<div class="col-xs-12 col-md-8"><img src="pics/howtouse.png" alt="How to use affirmations?" class="img-responsive"/></div>
   		<div class="col-md-2"><p></p></div>
   	</div>
 
 
 
 <div class="row">
-		<div class="col-md-2"><p></p></div>
+		<div class="col-md-2"><p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- how-to-use-affirmations-1 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3752069731700158"
+     data-ad-slot="4026072027"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></p></div>
 		<div class="col-md-8">
 <ol>
 	<li><h3>Live it! Feel it! Believe it!</h3></li>
@@ -93,7 +102,16 @@
       <p>You can check our collection regularly or you can sign up for our newsletter. May we have some great new ideas for you...</p>
       </ol>
 
-	<div class="col-md-2"><p></p></div>
+	<div class="col-md-2"><p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- how-to-use-affirmations-2 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3752069731700158"
+     data-ad-slot="5502805229"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></p></div>
 </div>
 <!-- end of affirmation_list -->
 

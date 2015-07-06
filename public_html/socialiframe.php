@@ -2,7 +2,7 @@
 
 <head>
 	<title>Social Buttons</title>
-	<link rel="stylesheet" type="text/css" href="socialbox.css">
+	<link rel="stylesheet" type="text/css" href="social.css">
 </head>
 
 <body>

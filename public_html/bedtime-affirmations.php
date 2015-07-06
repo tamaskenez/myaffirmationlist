@@ -13,7 +13,7 @@
   <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
   <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
   <link type="text/css" rel="stylesheet" href="stylesheet_lightbox.css"/>
-  <link rel="stylesheet" type="text/css" href="bootstrap-social.css"/>
+    <link rel="stylesheet" type="text/css" href="bootstrap-social.css"/>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
   <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
   <script src="affirmation_jquery.js"></script>
@@ -51,7 +51,16 @@
 
 
 <div class="row">
-    <div class="col-md-2"><p></p></div>
+    <div class="col-md-2"><p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- bedtime-affirmations-1 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3752069731700158"
+     data-ad-slot="4305273628"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></p></div>
     <div class="col-md-8">
       <div class="table-responsive">
           <table class="table table-wrapper">
@@ -69,6 +78,18 @@
               <td width="33%" class="imageContainer"><img  src="smallpics/bedtime-affirmations-7.jpg" alt="Bedtime Affirmation - I am grateful for the love I get every day." title="Bedtime Affirmation" data-author="" class="img-responsive thumb"></td>
               <td width="33%" class="imageContainer"><img src="smallpics/bedtime-affirmations-8.jpg" alt="Bedtime Affirmation - I forgive everyone. I clean the rage out of me. I am free. I am at my peace." title="Bedtime Affirmation" data-author="" class="img-responsive thumb"></td>
               <td width="33%" class="imageContainer"><img src="smallpics/bedtime-affirmations-9.jpg" alt="Bedtime Affirmation - I am extremely grateful for the life I have. It is very important for me to remind myself every day to feel happy about the many precious things that I have in my life." title="Bedtime Affirmation" data-author="" class="img-responsive thumb"></td>
+            </tr> 
+            <tr>
+              <td width="100%" colspan="3"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- bedtime-affirmations-3 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3752069731700158"
+     data-ad-slot="1212206421"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></td>
             </tr> 
             <tr>
               <td width="33%" class="imageContainer"><img  src="smallpics/bedtime-affirmations-10.jpg" alt="Bedtime Affirmation - I let my problems go and drift into a sound sleep." title="Bedtime Affirmation" data-author="" class="img-responsive thumb"></td>
@@ -111,7 +132,16 @@
           </table>
       </div>
   </div>
-	<div class="col-md-2"><p></p></div>
+	<div class="col-md-2"><p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- bedtime-affirmations-2 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3752069731700158"
+     data-ad-slot="7258740028"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></p></div>
 </div>
  <!--script type="text/javascript">
  
@@ -131,7 +161,7 @@ function show(){
     <img class="showpic" class="img-responsive" id="showpic" src="love1.png">
     <img class="next" src="next.png">
   </div>
-          
+        
 <?php include 'lightbox-picture-caption.php';?>
 
 </div>

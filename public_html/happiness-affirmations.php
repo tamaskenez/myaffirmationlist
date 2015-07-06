@@ -52,65 +52,95 @@
 
 
 <div class="row">
-    <div class="col-md-2"><p></p></div>
+    <div class="col-md-2"><p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- happiness1 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3752069731700158"
+     data-ad-slot="6619611620"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></p></div>
     <div class="col-md-8">
       <div class="table-responsive">
           <table class="table table-wrapper">
             <tr>
-              <td width="33%" class="imageContainer"><img src="smallpics/happiness2.jpg" data-author="Background image by cuellar on Flickr." class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/happiness3.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/happiness1.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/happiness-affirmations-2.jpg" alt="Happiness Affirmation" title="Happiness Affirmation" data-author="Background image by cuellar on Flickr." class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/happiness-affirmations-3.jpg" alt="Happiness Affirmation" title="Happiness Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/happiness-affirmations-1.jpg" alt="Happiness Affirmation" title="Happiness Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img src="smallpics/happiness4.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/happiness5.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/happiness6.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/happiness-affirmations-4.jpg" alt="Happiness Affirmation" title="Happiness Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/happiness-affirmations-5.jpg" alt="Happiness Affirmation" title="Happiness Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/happiness-affirmations-6.jpg" alt="Happiness Affirmation" title="Happiness Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img src="smallpics/happiness7.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/happiness8.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/happiness9.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/happiness-affirmations-7.jpg" alt="Happiness Affirmation" title="Happiness Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/happiness-affirmations-8.jpg" alt="Happiness Affirmation" title="Happiness Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/happiness-affirmations-9.jpg" alt="Happiness Affirmation" title="Happiness Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img src="smallpics/happiness10.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/happiness11.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/happiness12.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="100%" colspan="3"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- happiness3 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3752069731700158"
+     data-ad-slot="2049811228"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img src="smallpics/happiness13.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/happiness14.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/happiness15.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/happiness-affirmations-10.jpg" alt="Happiness Affirmation" title="Happiness Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/happiness-affirmations-11.jpg" alt="Happiness Affirmation" title="Happiness Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/happiness-affirmations-12.jpg" alt="Happiness Affirmation" title="Happiness Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img src="smallpics/happiness16.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/happiness17.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/happiness18.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/happiness-affirmations-13.jpg" alt="Happiness Affirmation" title="Happiness Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/happiness-affirmations-14.jpg" alt="Happiness Affirmation" title="Happiness Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/happiness-affirmations-15.jpg" alt="Happiness Affirmation" title="Happiness Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img src="smallpics/happiness19.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/happiness20.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/happiness21.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/happiness-affirmations-16.jpg" alt="Happiness Affirmation" title="Happiness Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/happiness-affirmations-17.jpg" alt="Happiness Affirmation" title="Happiness Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/happiness-affirmations-18.jpg" alt="Happiness Affirmation" title="Happiness Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img src="smallpics/happiness22.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/happiness23.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/happiness24.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/happiness-affirmations-19.jpg" alt="Happiness Affirmation" title="Happiness Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/happiness-affirmations-20.jpg" alt="Happiness Affirmation" title="Happiness Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/happiness-affirmations-21.jpg" alt="Happiness Affirmation" title="Happiness Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img src="smallpics/happiness25.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/happiness26.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/happiness27.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/happiness-affirmations-22.jpg" alt="Happiness Affirmation" title="Happiness Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/happiness-affirmations-23.jpg" alt="Happiness Affirmation" title="Happiness Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/happiness-affirmations-24.jpg" alt="Happiness Affirmation" title="Happiness Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img src="smallpics/happiness28.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/happiness29.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/happiness30.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/happiness-affirmations-25.jpg" alt="Happiness Affirmation" title="Happiness Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/happiness-affirmations-26.jpg" alt="Happiness Affirmation" title="Happiness Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/happiness-affirmations-27.jpg" alt="Happiness Affirmation" title="Happiness Affirmation" data-author="" class="img-responsive thumb"></td>
+            </tr> 
+            <tr>
+              <td width="33%" class="imageContainer"><img src="smallpics/happiness-affirmations-28.jpg" alt="Happiness Affirmation" title="Happiness Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/happiness-affirmations-29.jpg" alt="Happiness Affirmation" title="Happiness Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/happiness-affirmations-30.jpg" alt="Happiness Affirmation" title="Happiness Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr> 
   </table>
 </div>
 </div>
 
-  <div class="col-md-2"><p></p></div>
+  <div class="col-md-2"><p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- happiness2 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3752069731700158"
+     data-ad-slot="8096344823"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></p></div>
 </div>
 
 <!-- end of nav tabs-->

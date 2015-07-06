@@ -68,72 +68,84 @@
       <div class="table-responsive">
           <table class="table table-wrapper">
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/health1.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/health2.jpg" data-author="Background image by Nanagyei on Flickr." class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/health4.jpg" data-author="Background image by Angela Wolf on Flickr." class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/health-affirmations-1.jpg" alt="Health affirmation" title="Health Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/health-affirmations-2.jpg" alt="Health affirmation" title="Health Affirmation" data-author="Background image by Nanagyei on Flickr." class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/health-affirmations-4.jpg" alt="Health affirmation" title="Health Affirmation" data-author="Background image by Angela Wolf on Flickr." class="img-responsive thumb"></td>
             </tr>
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/health5.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/health6.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/health7.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/health-affirmations-5.jpg" alt="Health affirmation" title="Health Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/health-affirmations-6.jpg" alt="Health affirmation" title="Health Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/health-affirmations-7.jpg" alt="Health affirmation" title="Health Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr>
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/health8.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/health9.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/health10.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/health-affirmations-8.jpg" alt="Health affirmation" title="Health Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/health-affirmations-9.jpg" alt="Health affirmation" title="Health Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/health-affirmations-10.jpg" alt="Health affirmation" title="Health Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr>
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/health11.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/health12.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/health13.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="100%" colspan="3"> <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- health3 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3752069731700158"
+     data-ad-slot="2339346029"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></td>
+            </tr> 
+            <tr>
+              <td width="33%" class="imageContainer"><img  src="smallpics/health-affirmations-11.jpg" alt="Health affirmation" title="Health Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/health-affirmations-12.jpg" alt="Health affirmation" title="Health Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/health-affirmations-13.jpg" alt="Health affirmation" title="Health Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr>
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/health14.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/health15.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/health16.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/health-affirmations-14.jpg" alt="Health affirmation" title="Health Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/health-affirmations-15.jpg" alt="Health affirmation" title="Health Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/health-affirmations-16.jpg" alt="Health affirmation" title="Health Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr>
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/health17.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/health18.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/health19.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/health-affirmations-17.jpg" alt="Health affirmation" title="Health Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/health-affirmations-18.jpg" alt="Health affirmation" title="Health Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/health-affirmations-19.jpg" alt="Health affirmation" title="Health Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr>
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/health20.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/health21.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/health22.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/health-affirmations-20.jpg" alt="Health affirmation" title="Health Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/health-affirmations-21.jpg" alt="Health affirmation" title="Health Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/health-affirmations-22.jpg" alt="Health affirmation" title="Health Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr>
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/health23.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/health24.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/health25.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/health-affirmations-23.jpg" alt="Health affirmation" title="Health Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/health-affirmations-24.jpg" alt="Health affirmation" title="Health Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/health-affirmations-25.jpg" alt="Health affirmation" title="Health Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr>
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/health26.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/health27.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/health28.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/health-affirmations-26.jpg" alt="Health affirmation" title="Health Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/health-affirmations-27.jpg" alt="Health affirmation" title="Health Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/health-affirmations-28.jpg" alt="Health affirmation" title="Health Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr>
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/health29.jpg" data-author="Background image by Camdiluv on Flickr." class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/health30.jpg" data-author="Background image by simpologist on Flickr." class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/health31.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/health-affirmations-29.jpg" alt="Health affirmation" title="Health Affirmation" data-author="Background image by Camdiluv on Flickr." class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/health-affirmations-30.jpg" alt="Health affirmation" title="Health Affirmation" data-author="Background image by simpologist on Flickr." class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/health-affirmations-31.jpg" alt="Health affirmation" title="Health Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr>
              <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/health32.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/health33.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/health34.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/health-affirmations-32.jpg" alt="Health affirmation" title="Health Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/health-affirmations-33.jpg" alt="Health affirmation" title="Health Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/health-affirmations-34.jpg" alt="Health affirmation" title="Health Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr>
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/health35.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/health36.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/health37.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/health-affirmations-35.jpg" alt="Health affirmation" title="Health Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/health-affirmations-36.jpg" alt="Health affirmation" title="Health Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/health-affirmations-37.jpg" alt="Health affirmation" title="Health Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr>
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/health38.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/health39.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/health40.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/health-affirmations-38.jpg" alt="Health affirmation" title="Health Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/health-affirmations-39.jpg" alt="Health affirmation" title="Health Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/health-affirmations-40.jpg" alt="Health affirmation" title="Health Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr>
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/health41.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/health-affirmations-41.jpg" alt="Health affirmation" title="Health Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr>
   </table>
 </div>
@@ -153,22 +165,6 @@
   </p></div>
 </div>
 
-<div class="row">
-    <div class="col-md-2"><p></p></div>
-    <div class="col-md-8">
- <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- health3 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-3752069731700158"
-     data-ad-slot="2339346029"
-     data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-    </div>
-    <div class="col-md-2"><p></p></div>
-</div>
 
 <div class="row">
     <div class="col-md-2"><p></p></div>

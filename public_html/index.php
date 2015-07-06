@@ -24,10 +24,10 @@
 <?php
 $image=$_GET['image'];
 if(image != '') {
-  echo "<meta property=\"og:url\"          content=\"http://www.myaffirmationlist.com/og_$image\" />\n";
+  echo "<meta property=\"og:url\"          content=\"http://www.myaffirmationlist.com/og2_$image\" />\n";
   echo "<meta property=\"og:type\"         content=\"article\" />\n";
-  echo "<meta property=\"og:title\"        content=\"Positive Affirmation Images\" />\n";
-  echo "<meta property=\"og:description\"  content=\"Beautiful affirmation images and affirmation blog. Create your own favourite list here and change your life!\" />\n";
+  echo "<meta property=\"og:title\"        content=\"Positive Quotes and Affirmations\" />\n";
+  echo "<meta property=\"og:description\"  content=\"Click here to find more beautiful quote and affirmation images and share your favourites on Facebook!\" />\n";
   echo "<meta property=\"og:image\"        content=\"http://www.myaffirmationlist.com/smallpics/$image.jpg\" />\n";
   echo "<meta property=\"og:image:width\"  content=\"400\" />\n";
   echo "<meta property=\"og:image:height\" content=\"400\" />\n";

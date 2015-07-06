@@ -44,7 +44,7 @@
 <!--photo header-->
     <div class="row">
       <div class="col-md-2"><p></p></div>
-      <div class="col-xs-12 col-md-8"><img src="pics/self_confidence_banner.jpg" alt="Affirmations" class="img-responsive"/></div>
+      <div class="col-xs-12 col-md-8"><img src="pics/self_confidence_banner.jpg" alt="Self-confidence Affirmations" class="img-responsive"/></div>
       <div class="col-md-2"><p></p></div>
     </div>
 
@@ -53,73 +53,94 @@
 
 
 <div class="row">
-    <div class="col-md-2"><p></p></div>
+    <div class="col-md-2"><p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- self-confidence-1 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3752069731700158"
+     data-ad-slot="6061208429"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></p></div>
     <div class="col-md-8">
       <div class="table-responsive">
           <table class="table table-wrapper">
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/selfconf1.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/selfconf2.jpg" data-author="Background picture by sumitrarose on Flickr." class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/selfconf3.jpg" data-author="Background picture by Dusty J on Flickr." class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/self-confidence-affirmations-1.jpg" alt="Self-confidence and Self-esteem affirmation" title="Self-confidence and Self-esteem affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/self-confidence-affirmations-2.jpg" alt="Self-confidence and Self-esteem affirmation" title="Self-confidence and Self-esteem affirmation"  data-author="Background picture by sumitrarose on Flickr." class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/self-confidence-affirmations-3.jpg" alt="Self-confidence and Self-esteem affirmation" title="Self-confidence and Self-esteem affirmation" data-author="Background picture by Dusty J on Flickr." class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/selfconf4.jpg" data-author="Background picture by takacsi75 on Flickr." class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/selfconf5.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/selfconf6.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/self-confidence-affirmations-4.jpg" alt="Self-confidence and Self-esteem affirmation" title="Self-confidence and Self-esteem affirmation" data-author="Background picture by takacsi75 on Flickr." class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/self-confidence-affirmations-5.jpg" alt="Self-confidence and Self-esteem affirmation" title="Self-confidence and Self-esteem affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/self-confidence-affirmations-6.jpg" alt="Self-confidence and Self-esteem affirmation" title="Self-confidence and Self-esteem affirmation" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/selfconf7.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/selfconf8.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/selfconf9.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/self-confidence-affirmations-7.jpg" alt="Self-confidence and Self-esteem affirmation" title="Self-confidence and Self-esteem affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/self-confidence-affirmations-8.jpg" alt="Self-confidence and Self-esteem affirmation" title="Self-confidence and Self-esteem affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/self-confidence-affirmations-9.jpg" alt="Self-confidence and Self-esteem affirmation" title="Self-confidence and Self-esteem affirmation" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/selfconf10.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/selfconf11.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/selfconf12.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="100%" colspan="3"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- self-confidence-3 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3752069731700158"
+     data-ad-slot="1491408026"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/selfconf13.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/selfconf14.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/selfconf15.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/self-confidence-affirmations-10.jpg" alt="Self-confidence and Self-esteem affirmation" title="Self-confidence and Self-esteem affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/self-confidence-affirmations-11.jpg" alt="Self-confidence and Self-esteem affirmation" title="Self-confidence and Self-esteem affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/self-confidence-affirmations-12.jpg" alt="Self-confidence and Self-esteem affirmation" title="Self-confidence and Self-esteem affirmation" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/selfconf16.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/selfconf17.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/selfconf18.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/self-confidence-affirmations-13.jpg" alt="Self-confidence and Self-esteem affirmation" title="Self-confidence and Self-esteem affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/self-confidence-affirmations-14.jpg" alt="Self-confidence and Self-esteem affirmation" title="Self-confidence and Self-esteem affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/self-confidence-affirmations-15.jpg" alt="Self-confidence and Self-esteem affirmation" title="Self-confidence and Self-esteem affirmation" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/selfconf19.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/selfconf20.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/selfconf21.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/self-confidence-affirmations-16.jpg" alt="Self-confidence and Self-esteem affirmation" title="Self-confidence and Self-esteem affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/self-confidence-affirmations-17.jpg" alt="Self-confidence and Self-esteem affirmation" title="Self-confidence and Self-esteem affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/self-confidence-affirmations-18.jpg" alt="Self-confidence and Self-esteem affirmation" title="Self-confidence and Self-esteem affirmation" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/selfconf22.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/selfconf23.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/selfconf24.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/self-confidence-affirmations-19.jpg" alt="Self-confidence and Self-esteem affirmation" title="Self-confidence and Self-esteem affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/self-confidence-affirmations-20.jpg" alt="Self-confidence and Self-esteem affirmation" title="Self-confidence and Self-esteem affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/self-confidence-affirmations-21.jpg" alt="Self-confidence and Self-esteem affirmation" title="Self-confidence and Self-esteem affirmation" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/selfconf25.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/selfconf26.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/selfconf27.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/self-confidence-affirmations-22.jpg" alt="Self-confidence and Self-esteem affirmation" title="Self-confidence and Self-esteem affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/self-confidence-affirmations-23.jpg" alt="Self-confidence and Self-esteem affirmation" title="Self-confidence and Self-esteem affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/self-confidence-affirmations-24.jpg" alt="Self-confidence and Self-esteem affirmation" title="Self-confidence and Self-esteem affirmation" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/selfconf28.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/selfconf29.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/selfconf30.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/self-confidence-affirmations-25.jpg" alt="Self-confidence and Self-esteem affirmation" title="Self-confidence and Self-esteem affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/self-confidence-affirmations-26.jpg" alt="Self-confidence and Self-esteem affirmation" title="Self-confidence and Self-esteem affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/self-confidence-affirmations-27.jpg" alt="Self-confidence and Self-esteem affirmation" title="Self-confidence and Self-esteem affirmation" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/selfconf31.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/selfconf32.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/selfconf33.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/self-confidence-affirmations-28.jpg" alt="Self-confidence and Self-esteem affirmation" title="Self-confidence and Self-esteem affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/self-confidence-affirmations-29.jpg" alt="Self-confidence and Self-esteem affirmation" title="Self-confidence and Self-esteem affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/self-confidence-affirmations-30.jpg" alt="Self-confidence and Self-esteem affirmation" title="Self-confidence and Self-esteem affirmation" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/selfconf34.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/selfconf35.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/selfconf36.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/self-confidence-affirmations-31.jpg" alt="Self-confidence and Self-esteem affirmation" title="Self-confidence and Self-esteem affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/self-confidence-affirmations-32.jpg" alt="Self-confidence and Self-esteem affirmation" title="Self-confidence and Self-esteem affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/self-confidence-affirmations-33.jpg" alt="Self-confidence and Self-esteem affirmation" title="Self-confidence and Self-esteem affirmation" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/selfconf37.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/selfconf38.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/self-confidence-affirmations-34.jpg" alt="Self-confidence and Self-esteem affirmation" title="Self-confidence and Self-esteem affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/self-confidence-affirmations-35.jpg" alt="Self-confidence and Self-esteem affirmation" title="Self-confidence and Self-esteem affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/self-confidence-affirmations-36.jpg" alt="Self-confidence and Self-esteem affirmation" title="Self-confidence and Self-esteem affirmation" data-author="" class="img-responsive thumb"></td>
+            </tr> 
+            <tr>
+              <td width="33%" class="imageContainer"><img  src="smallpics/self-confidence-affirmations-37.jpg" alt="Self-confidence and Self-esteem affirmation" title="Self-confidence and Self-esteem affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/self-confidence-affirmations-38.jpg" alt="Self-confidence and Self-esteem affirmation" title="Self-confidence and Self-esteem affirmation" data-author="" class="img-responsive thumb"></td>
             </tr> 
             
             
@@ -129,7 +150,16 @@
 </div>
 </div>
 
-  <div class="col-md-2"><p></p></div>
+  <div class="col-md-2"><p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- self-confidence-2 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3752069731700158"
+     data-ad-slot="7537941628"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></p></div>
 </div>
 
 

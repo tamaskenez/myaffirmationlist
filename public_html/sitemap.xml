@@ -8,83 +8,86 @@
 
 <url>
   <loc>http://www.myaffirmationlist.com/</loc>
-  <changefreq>always</changefreq>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.myaffirmationlist.com/index.php</loc>
+  <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>http://www.myaffirmationlist.com/quotes.php</loc>
-  <changefreq>always</changefreq>
+  <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>http://www.myaffirmationlist.com/love-affirmations.php</loc>
-  <changefreq>always</changefreq>
+  <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>http://www.myaffirmationlist.com/family-affirmations.php</loc>
-  <changefreq>always</changefreq>
+  <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>http://www.myaffirmationlist.com/health-affirmations.php</loc>
-  <changefreq>always</changefreq>
+  <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>http://www.myaffirmationlist.com/happiness-affirmations.php</loc>
-  <changefreq>always</changefreq>
+  <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>http://www.myaffirmationlist.com/motivation-affirmations.php</loc>
-  <changefreq>always</changefreq>
-  <priority>0.80</priority>
+  <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>http://www.myaffirmationlist.com/learning-affirmations.php</loc>
-  <changefreq>always</changefreq>
+  <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>http://www.myaffirmationlist.com/diet-affirmations.php</loc>
-  <changefreq>always</changefreq>
+  <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>http://www.myaffirmationlist.com/money-affirmations.php</loc>
-  <changefreq>always</changefreq>
+  <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>http://www.myaffirmationlist.com/career-affirmations.php</loc>
-  <changefreq>always</changefreq>
+  <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>http://www.myaffirmationlist.com/self-confidence-affirmations.php</loc>
-  <changefreq>always</changefreq>
+  <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>http://www.myaffirmationlist.com/morning-affirmations.php</loc>
-  <changefreq>always</changefreq>
+  <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>http://www.myaffirmationlist.com/bedtime-affirmations.php</loc>
-  <changefreq>always</changefreq>
+  <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>http://www.myaffirmationlist.com/how-to-use-affirmations.php</loc>
-  <changefreq>always</changefreq>
+  <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>http://www.myaffirmationlist.com/affirmation-success-stories.php</loc>
-  <changefreq>always</changefreq>
+  <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>http://www.myaffirmationlist.com/aboutme.php</loc>
-  <changefreq>always</changefreq>
+  <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>http://www.myaffirmationlist.com/disclaimer.php</loc>
-  <changefreq>always</changefreq>
+  <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>http://www.myaffirmationlist.com/contactme.php</loc>
-  <changefreq>always</changefreq>
+  <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>http://www.myaffirmationlist.com/affirmation-blog.php</loc>
-  <changefreq>always</changefreq>
+  <changefreq>daily</changefreq>
 </url>
 </urlset>

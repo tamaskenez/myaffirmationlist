@@ -7,7 +7,7 @@
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 
-<nav class="navbar navbar-inverse">
+<nav class="navbar navbar-default">
   <div class="container-fluid">
     <div class="navbar-header">
       <button type="button" class="navbar-toggle left" data-toggle="collapse" data-target="#myNavbar2">
@@ -17,9 +17,9 @@
       </button>
     </div>
     <div class="collapse navbar-collapse" id="myNavbar2">
-        <ul class="nav navbar-nav">
+        <ul class="nav navbar-nav navbar-right">
                 <li class="dropdown active">
-                <a class="dropdown-toggle" data-toggle="dropdown" href="index.php">Affirmation Categories
+                <a class="dropdown-toggle" data-toggle="dropdown" href="index.php">Categories
                 <span class="caret"></span></a>
                 <ul class="dropdown-menu">
                 <li><a href="http://www.myaffirmationlist.com/index.php">ALL CATEGORIES</a></li>
@@ -46,13 +46,13 @@
 
         <li><a href="how-to-use-affirmations.php">How to use affirmations?</a></li>
         <li><a href="affirmation-success-stories.php">Success Stories</a></li>
-        <?php
+        <!--?php
             if (!empty($_SESSION['user_name']) && ($_SESSION['user_logged_in'] == 1)) {
              echo '<li><a href="favourites.php">Favourites</a></li>';
             }
-        ?>
+        ?-->
     </ul>
-    <ul class="login_status">
+    <!--ul class="login_status">
         <?php
             if (!empty($_SESSION['user_name']) && ($_SESSION['user_logged_in'] == 1)) {
              echo '<li><a href="logout.php?logout"><button type="button" class="btn btn-primary logout_btn">Log Out</button></a></li>
@@ -61,7 +61,7 @@
              echo '<li><a href="views/not_logged_in.php"><button type="button" class="btn btn-primary login_btn">Log In</button></a></li>';
             }
         ?>
-      </ul>
+      </ul-->
     </div>
   </div>
 </nav>

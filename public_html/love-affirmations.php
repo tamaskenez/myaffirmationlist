@@ -70,68 +70,81 @@
       <div class="table-responsive">
           <table class="table table-wrapper">
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/love1.jpg" data-author="" alt="I deserve to be with people who loves me." class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/love2.jpg" data-author="Background picture by andrew_mc_d on Flickr." class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/love3.jpg" data-author="Background picture by sumitrarose on Flickr." class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/love-affirmations-1.jpg" alt="I deserve to be with people who loves me." data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/love-affirmations-2.jpg" alt="Love Affirmation" title="Love Affirmation" data-author="Background picture by andrew_mc_d on Flickr." class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/love-affirmations-3.jpg" alt="Love Affirmation" title="Love Affirmation" data-author="Background picture by sumitrarose on Flickr." class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/love4.jpg" data-author="Background picture by Joel Olives on Flickr." class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/love5.jpg" data-author="Background picture by Dusty J on Flickr." class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/love6.jpg" data-author="Background picture by takacsi75 on Flickr." class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/love-affirmations-4.jpg" alt="Love Affirmation" title="Love Affirmation" data-author="Background picture by Joel Olives on Flickr." class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/love-affirmations-5.jpg" alt="Love Affirmation" title="Love Affirmation" data-author="Background picture by Dusty J on Flickr." class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/love-affirmations-6.jpg" alt="Love Affirmation" title="Love Affirmation" data-author="Background picture by takacsi75 on Flickr." class="img-responsive thumb"></td>
             </tr>
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/love7.jpg" data-author="Background picture by Maggie-Me on Flickr." class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/love8.jpg" data-author="Background picture by Christopher.Michel on Flickr." class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/love9.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/love-affirmations-7.jpg" alt="Love Affirmation" title="Love Affirmation" data-author="Background picture by Maggie-Me on Flickr." class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/love-affirmations-8.jpg" alt="Love Affirmation" title="Love Affirmation" data-author="Background picture by Christopher.Michel on Flickr." class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/love-affirmations-9.jpg" alt="Love Affirmation" title="Love Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr>
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/love10.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/love11.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/love12.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/love-affirmations-10.jpg" alt="Love Affirmation" title="Love Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/love-affirmations-11.jpg" alt="Love Affirmation" title="Love Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/love-affirmations-12.jpg" alt="Love Affirmation" title="Love Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr>
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/love13.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/love14.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/love15.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="100%" colspan="3" ><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- love3 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3752069731700158"
+     data-ad-slot="8525480420"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></td>
+              
             </tr>
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/love16.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/love17.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/love18.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/love-affirmations-13.jpg" alt="Love Affirmation" title="Love Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/love-affirmations-14.jpg" alt="Love Affirmation" title="Love Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/love-affirmations-15.jpg" alt="Love Affirmation" title="Love Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr>
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/love19.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/love20.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/love21.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/love-affirmations-16.jpg" alt="Love Affirmation" title="Love Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/love-affirmations-17.jpg" alt="Love Affirmation" title="Love Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/love-affirmations-18.jpg" alt="Love Affirmation" title="Love Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr>
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/love22.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/love23.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/love24.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/love-affirmations-19.jpg" alt="Love Affirmation" title="Love Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/love-affirmations-20.jpg" alt="Love Affirmation" title="Love Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/love-affirmations-21.jpg" alt="Love Affirmation" title="Love Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr>
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/love25.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/love26.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/love27.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/love-affirmations-22.jpg" alt="Love Affirmation" title="Love Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/love-affirmations-23.jpg" alt="Love Affirmation" title="Love Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/love-affirmations-24.jpg" alt="Love Affirmation" title="Love Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr>
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/love28.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/love29.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/love30.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/love-affirmations-25.jpg" alt="Love Affirmation" title="Love Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/love-affirmations-26.jpg" alt="Love Affirmation" title="Love Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/love-affirmations-27.jpg" alt="Love Affirmation" title="Love Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr>
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/love31.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/love32.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/love33.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/love-affirmations-28.jpg" alt="Love Affirmation" title="Love Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/love-affirmations-29.jpg" alt="Love Affirmation" title="Love Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/love-affirmations-30.jpg" alt="Love Affirmation" title="Love Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr>
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/love34.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/love35.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/love36.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/love-affirmations-31.jpg" alt="Love Affirmation" title="Love Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/love-affirmations-32.jpg" alt="Love Affirmation" title="Love Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/love-affirmations-33.jpg" alt="Love Affirmation" title="Love Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr>
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/love37.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img  src="smallpics/love38.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/love-affirmations-34.jpg" alt="Love Affirmation" title="Love Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/love-affirmations-35.jpg" alt="Love Affirmation" title="Love Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/love-affirmations-36.jpg" alt="Love Affirmation" title="Love Affirmation" data-author="" class="img-responsive thumb"></td>
+            </tr>
+            <tr>
+              <td width="33%" class="imageContainer"><img  src="smallpics/love-affirmations-37.jpg" alt="Love Affirmation" title="Love Affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/love-affirmations-38.jpg" alt="Love Affirmation" title="Love Affirmation" data-author="" class="img-responsive thumb"></td>
             </tr>
 
 
@@ -153,22 +166,6 @@
   </p></div>
 </div>
 
-<div class="row">
-    <div class="col-md-2"><p></p></div>
-    <div class="col-md-8">
-    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- love3 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-3752069731700158"
-     data-ad-slot="8525480420"
-     data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-    </div>
-    <div class="col-md-2"><p></p></div>
-</div>
 
 <div class="row">
     <div class="col-md-2"><p></p></div>

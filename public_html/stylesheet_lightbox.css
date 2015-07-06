@@ -195,7 +195,7 @@ body{
     
 }
 table{
-  width :; 100%;
+  width : 100%;
   border: none;
 
 }
@@ -231,4 +231,18 @@ img.cell-wrapper{
 .copyright{
   text-align: center;
   margin-top:40px;
+}
+
+.fb-share-button{
+  height:50px;
+  width:100px;
+  margin-left: 45px;
+  /*position:absolute;
+  top:50%;
+  margin:0px;*/
+}
+
+.article{
+  padding: 5px;
+  border: 1px;
 }

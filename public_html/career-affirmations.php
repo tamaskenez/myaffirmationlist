@@ -43,7 +43,7 @@
 <!--photo header-->
 <div class="row">
   		<div class="col-md-2"><p></p></div>
-  		<div class="col-xs-12 col-md-8"><img src="pics/career.png" alt="Affirmations" class="img-responsive"/></div>
+  		<div class="col-xs-12 col-md-8"><img src="pics/career.png" alt="Career Affirmations" class="img-responsive"/></div>
   		<div class="col-md-2"><p></p></div>
 
   	</div>
@@ -64,57 +64,69 @@
       <div class="table-responsive">
           <table class="table table-wrapper">
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/career1.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/career2.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/career3.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/career-affirmations-1.jpg" alt="Career and work affirmations" title="career and work affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/career-affirmations-2.jpg" alt="Career and work affirmations" title="career and work affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/career-affirmations-3.jpg" alt="Career and work affirmations" title="career and work affirmation" data-author="" class="img-responsive thumb"></td>
             </tr>
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/career4.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/career5.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/career6.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/career-affirmations-4.jpg" alt="Career and work affirmations" title="career and work affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/career-affirmations-5.jpg" alt="Career and work affirmations" title="career and work affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/career-affirmations-6.jpg" alt="Career and work affirmations" title="career and work affirmation" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/career7.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/career8.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/career9.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/career-affirmations-7.jpg" alt="Career and work affirmations" title="career and work affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/career-affirmations-8.jpg" alt="Career and work affirmations" title="career and work affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/career-affirmations-9.jpg" alt="Career and work affirmations" title="career and work affirmation" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/career10.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/career11.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/career12.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="100%" colspan="3"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- career3 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3752069731700158"
+     data-ad-slot="5491288828"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/career13.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/career14.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/career15.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/career-affirmations-10.jpg" alt="Career and work affirmations" title="career and work affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/career-affirmations-11.jpg" alt="Career and work affirmations" title="career and work affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/career-affirmations-12.jpg" alt="Career and work affirmations" title="career and work affirmation" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/career16.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/career17.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/career18.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/career-affirmations-13.jpg" alt="Career and work affirmations" title="career and work affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/career-affirmations-14.jpg" alt="Career and work affirmations" title="career and work affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/career-affirmations-15.jpg" alt="Career and work affirmations" title="career and work affirmation" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/career19.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/career20.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/career21.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/career-affirmations-16.jpg" alt="Career and work affirmations" title="career and work affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/career-affirmations-17.jpg" alt="Career and work affirmations" title="career and work affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/career-affirmations-18.jpg" alt="Career and work affirmations" title="career and work affirmation" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/career22.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/career23.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/career24.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/career-affirmations-19.jpg" alt="Career and work affirmations" title="career and work affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/career-affirmations-20.jpg" alt="Career and work affirmations" title="career and work affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/career-affirmations-21.jpg" alt="Career and work affirmations" title="career and work affirmation" data-author="" class="img-responsive thumb"></td>
+            </tr> 
+            <tr>
+              <td width="33%" class="imageContainer"><img  src="smallpics/career-affirmations-22.jpg" alt="Career and work affirmations" title="career and work affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/career-affirmations-23.jpg" alt="Career and work affirmations" title="career and work affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/career-affirmations-24.jpg" alt="Career and work affirmations" title="career and work affirmation" data-author="" class="img-responsive thumb"></td>
             </tr> 
              <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/career25.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/career26.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/career27.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/career-affirmations-25.jpg" alt="Career and work affirmations" title="career and work affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/career-affirmations-26.jpg" alt="Career and work affirmations" title="career and work affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/career-affirmations-27.jpg" alt="Career and work affirmations" title="career and work affirmation" data-author="" class="img-responsive thumb"></td>
             </tr> 
              <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/career28.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/career29.jpg" data-author="" class="img-responsive thumb"></td>
-              <td width="33%" class="imageContainer"><img src="smallpics/career30.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/career-affirmations-28.jpg" alt="Career and work affirmations" title="career and work affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/career-affirmations-29.jpg" alt="Career and work affirmations" title="career and work affirmation" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img src="smallpics/career-affirmations-30.jpg" alt="Career and work affirmations" title="career and work affirmation" data-author="" class="img-responsive thumb"></td>
             </tr> 
             <tr>
-              <td width="33%" class="imageContainer"><img  src="smallpics/career31.jpg" data-author="" class="img-responsive thumb"></td>
+              <td width="33%" class="imageContainer"><img  src="smallpics/career-affirmations-31.jpg" alt="Career and work affirmations" title="career and work affirmation" data-author="" class="img-responsive thumb"></td>
             </tr> 
 
             
@@ -135,22 +147,6 @@
 </script></p></div>
 </div>
 
-<div class="row">
-    <div class="col-md-2"><p></p></div>
-    <div class="col-md-8">
-    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- career3 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-3752069731700158"
-     data-ad-slot="5491288828"
-     data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-    </div>
-    <div class="col-md-2"><p></p></div>
-</div>
 
 <div class="row">
     <div class="col-md-2"><p></p></div>
